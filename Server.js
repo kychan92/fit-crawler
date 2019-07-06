@@ -1,7 +1,7 @@
 var http = require('http');
 
 const THREE_MINUTES = 60000 * 3;
-const PORT = 3000;
+const PORT = 8080;
 
 class Server {
     constructor() {
