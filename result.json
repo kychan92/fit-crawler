@@ -1,0 +1,5404 @@
+[
+    {
+        "location": "De Uithof",
+        "day": "Zaterdag",
+        "date": "6 juli",
+        "classes": [
+            {
+                "available_places": 0,
+                "status": "full",
+                "name": "Spinning",
+                "room": "Spinningzaal",
+                "timeStart": "09:30",
+                "timeEnd": "10:30",
+                "teacher": "Nicole"
+            },
+            {
+                "available_places": 8,
+                "status": "open",
+                "name": "FunXtion",
+                "room": "FunXtion Zone",
+                "timeStart": "11:00",
+                "timeEnd": "11:30",
+                "teacher": "Samir"
+            }
+        ]
+    },
+    {
+        "location": "De Uithof",
+        "day": "Zondag",
+        "date": "7 juli",
+        "classes": [
+            {
+                "available_places": 10,
+                "status": "open",
+                "name": "Kickboksen",
+                "room": "Groepsleszaal",
+                "timeStart": "09:30",
+                "timeEnd": "10:30",
+                "teacher": "Dew"
+            },
+            {
+                "available_places": 21,
+                "status": "open",
+                "name": "Latin Dance",
+                "room": "Groepsleszaal",
+                "timeStart": "10:30",
+                "timeEnd": "11:30",
+                "teacher": "Cumali"
+            }
+        ]
+    },
+    {
+        "location": "De Uithof",
+        "day": "Maandag",
+        "date": "8 juli",
+        "classes": [
+            {
+                "available_places": 18,
+                "status": "open",
+                "name": "BodyShape",
+                "room": "Groepsleszaal",
+                "timeStart": "08:30",
+                "timeEnd": "09:30",
+                "teacher": "Natasja"
+            },
+            {
+                "available_places": 20,
+                "status": "open",
+                "name": "BodyBalance",
+                "room": "Groepsleszaal",
+                "timeStart": "09:30",
+                "timeEnd": "10:30",
+                "teacher": "Sandra"
+            },
+            {
+                "available_places": 11,
+                "status": "open",
+                "name": "FunXtion",
+                "room": "FunXtion Zone",
+                "timeStart": "09:45",
+                "timeEnd": "10:15",
+                "teacher": "Jeffrey"
+            },
+            {
+                "available_places": 18,
+                "status": "open",
+                "name": "50+",
+                "room": "Groepsleszaal",
+                "timeStart": "10:30",
+                "timeEnd": "11:30",
+                "teacher": "Natasja"
+            },
+            {
+                "available_places": 1,
+                "status": "open",
+                "name": "Spinning",
+                "room": "Spinningzaal",
+                "timeStart": "19:00",
+                "timeEnd": "20:00",
+                "teacher": "Ingrid"
+            },
+            {
+                "available_places": 13,
+                "status": "open",
+                "name": "KickBoksen",
+                "room": "Groepsleszaal",
+                "timeStart": "20:00",
+                "timeEnd": "21:00",
+                "teacher": "Dew"
+            },
+            {
+                "available_places": 9,
+                "status": "open",
+                "name": "FunXtion",
+                "room": "FunXtion Zone",
+                "timeStart": "20:30",
+                "timeEnd": "21:00",
+                "teacher": "Jake"
+            }
+        ]
+    },
+    {
+        "location": "De Uithof",
+        "day": "Dinsdag",
+        "date": "9 juli",
+        "classes": [
+            {
+                "available_places": 24,
+                "status": "open",
+                "name": "BodyPower",
+                "room": "Groepsleszaal",
+                "timeStart": "09:00",
+                "timeEnd": "10:00",
+                "teacher": "Marijke"
+            },
+            {
+                "available_places": 25,
+                "status": "open",
+                "name": "Zumba",
+                "room": "Groepsleszaal",
+                "timeStart": "10:00",
+                "timeEnd": "11:00",
+                "teacher": "Hani"
+            },
+            {
+                "available_places": 22,
+                "status": "open",
+                "name": "Zumba",
+                "room": "Groepsleszaal",
+                "timeStart": "19:00",
+                "timeEnd": "20:00",
+                "teacher": "Hani"
+            },
+            {
+                "available_places": 0,
+                "status": "full",
+                "name": "Spinning",
+                "room": "Spinningzaal",
+                "timeStart": "19:30",
+                "timeEnd": "20:30",
+                "teacher": "Nicole"
+            },
+            {
+                "available_places": 12,
+                "status": "open",
+                "name": "FunXtion/Bootcamp",
+                "room": "FunXtion Zone",
+                "timeStart": "20:00",
+                "timeEnd": "20:30",
+                "teacher": "Jeffrey"
+            },
+            {
+                "available_places": 12,
+                "status": "open",
+                "name": "BodyShape",
+                "room": "Groepsleszaal",
+                "timeStart": "20:00",
+                "timeEnd": "21:00",
+                "teacher": "Hani"
+            }
+        ]
+    },
+    {
+        "location": "De Uithof",
+        "day": "Woensdag",
+        "date": "10 juli",
+        "classes": [
+            {
+                "available_places": 1,
+                "status": "cancelled",
+                "name": "Pilates",
+                "room": "Groepsleszaal",
+                "timeStart": "09:30",
+                "timeEnd": "10:30",
+                "teacher": "Vera"
+            },
+            {
+                "available_places": 15,
+                "status": "open",
+                "name": "Spinning",
+                "room": "Spinningzaal",
+                "timeStart": "09:30",
+                "timeEnd": "10:30",
+                "teacher": "ingrid"
+            },
+            {
+                "available_places": 12,
+                "status": "open",
+                "name": "FunXtion",
+                "room": "FunXtion Zone",
+                "timeStart": "09:45",
+                "timeEnd": "10:15",
+                "teacher": "jeffrey"
+            },
+            {
+                "available_places": 12,
+                "status": "open",
+                "name": "FunXtion 50+",
+                "room": "FunXtion Zone",
+                "timeStart": "10:30",
+                "timeEnd": "11:00",
+                "teacher": "Jeffrey"
+            },
+            {
+                "available_places": 17,
+                "status": "open",
+                "name": "KickBoksen",
+                "room": "Groepsleszaal",
+                "timeStart": "19:00",
+                "timeEnd": "20:00",
+                "teacher": "Dew"
+            },
+            {
+                "available_places": 18,
+                "status": "open",
+                "name": "BodyBalance",
+                "room": "Groepsleszaal",
+                "timeStart": "20:00",
+                "timeEnd": "21:00",
+                "teacher": "Sandra"
+            },
+            {
+                "available_places": 10,
+                "status": "open",
+                "name": "FunXtion",
+                "room": "FunXtion Zone",
+                "timeStart": "20:30",
+                "timeEnd": "21:00",
+                "teacher": "Rumen"
+            },
+            {
+                "available_places": 13,
+                "status": "open",
+                "name": "Yoga",
+                "room": "Groepsleszaal",
+                "timeStart": "21:00",
+                "timeEnd": "22:00",
+                "teacher": "Sandra"
+            }
+        ]
+    },
+    {
+        "location": "De Uithof",
+        "day": "Donderdag",
+        "date": "11 juli",
+        "classes": [
+            {
+                "available_places": 16,
+                "status": "open",
+                "name": "BodyPump",
+                "room": "Groepsleszaal",
+                "timeStart": "09:30",
+                "timeEnd": "10:30",
+                "teacher": "Anouschka"
+            },
+            {
+                "available_places": 20,
+                "status": "open",
+                "name": "BodyBalance",
+                "room": "Groepsleszaal",
+                "timeStart": "10:30",
+                "timeEnd": "11:30",
+                "teacher": "Sandra"
+            },
+            {
+                "available_places": 16,
+                "status": "open",
+                "name": "BBB",
+                "room": "Groepsleszaal",
+                "timeStart": "19:00",
+                "timeEnd": "20:00",
+                "teacher": "Cumali"
+            },
+            {
+                "available_places": 25,
+                "status": "open",
+                "name": "Latin Dance",
+                "room": "Groepsleszaal",
+                "timeStart": "20:00",
+                "timeEnd": "21:00",
+                "teacher": "Cumali"
+            },
+            {
+                "available_places": 9,
+                "status": "open",
+                "name": "FunXtion",
+                "room": "FunXtion Zone",
+                "timeStart": "20:15",
+                "timeEnd": "21:00",
+                "teacher": "Remco"
+            }
+        ]
+    },
+    {
+        "location": "De Uithof",
+        "day": "Vrijdag",
+        "date": "12 juli",
+        "classes": [
+            {
+                "available_places": 1,
+                "status": "cancelled",
+                "name": "BodyBalance",
+                "room": "Groepsleszaal",
+                "timeStart": "08:30",
+                "timeEnd": "09:30",
+                "teacher": "Sandra"
+            },
+            {
+                "available_places": 1,
+                "status": "cancelled",
+                "name": "Pilates",
+                "room": "Groepsleszaal",
+                "timeStart": "09:30",
+                "timeEnd": "10:30",
+                "teacher": "Sandra"
+            },
+            {
+                "available_places": 13,
+                "status": "open",
+                "name": "Spinning",
+                "room": "Spinningzaal",
+                "timeStart": "09:30",
+                "timeEnd": "10:30",
+                "teacher": "Ingrid"
+            },
+            {
+                "available_places": 11,
+                "status": "open",
+                "name": "FunXtion",
+                "room": "FunXtion Zone",
+                "timeStart": "09:45",
+                "timeEnd": "10:15",
+                "teacher": "Jeffrey"
+            },
+            {
+                "available_places": 19,
+                "status": "open",
+                "name": "50+",
+                "room": "Groepsleszaal",
+                "timeStart": "10:30",
+                "timeEnd": "11:30",
+                "teacher": "Kasita"
+            },
+            {
+                "available_places": 12,
+                "status": "open",
+                "name": "FunXtion",
+                "room": "FunXtion Zone",
+                "timeStart": "19:30",
+                "timeEnd": "20:00",
+                "teacher": "Jake"
+            }
+        ]
+    },
+    {
+        "location": "De Uithof",
+        "day": "Zaterdag",
+        "date": "13 juli",
+        "classes": [
+            {
+                "available_places": 0,
+                "status": "full",
+                "name": "Spinning",
+                "room": "Spinningzaal",
+                "timeStart": "09:30",
+                "timeEnd": "10:30",
+                "teacher": "Nicole"
+            },
+            {
+                "available_places": 11,
+                "status": "open",
+                "name": "FunXtion",
+                "room": "FunXtion Zone",
+                "timeStart": "11:00",
+                "timeEnd": "11:30",
+                "teacher": "Jake"
+            }
+        ]
+    },
+    {
+        "location": "De Uithof",
+        "day": "Zondag",
+        "date": "14 juli",
+        "classes": [
+            {
+                "available_places": 16,
+                "status": "open",
+                "name": "Kickboksen",
+                "room": "Groepsleszaal",
+                "timeStart": "09:30",
+                "timeEnd": "10:30",
+                "teacher": "Dew"
+            },
+            {
+                "available_places": 29,
+                "status": "open",
+                "name": "Latin Dance",
+                "room": "Groepsleszaal",
+                "timeStart": "10:30",
+                "timeEnd": "11:30",
+                "teacher": "Cumali"
+            }
+        ]
+    },
+    {
+        "location": "De Uithof",
+        "day": "Maandag",
+        "date": "15 juli",
+        "classes": [
+            {
+                "available_places": 21,
+                "status": "open",
+                "name": "BodyShape",
+                "room": "Groepsleszaal",
+                "timeStart": "08:30",
+                "timeEnd": "09:30",
+                "teacher": "Natasja"
+            },
+            {
+                "available_places": 20,
+                "status": "open",
+                "name": "BodyBalance",
+                "room": "Groepsleszaal",
+                "timeStart": "09:30",
+                "timeEnd": "10:30",
+                "teacher": "Sandra"
+            },
+            {
+                "available_places": 12,
+                "status": "open",
+                "name": "FunXtion",
+                "room": "FunXtion Zone",
+                "timeStart": "09:45",
+                "timeEnd": "10:15",
+                "teacher": "Jeffrey"
+            },
+            {
+                "available_places": 24,
+                "status": "open",
+                "name": "50+",
+                "room": "Groepsleszaal",
+                "timeStart": "10:30",
+                "timeEnd": "11:30",
+                "teacher": "Natasja"
+            },
+            {
+                "available_places": 10,
+                "status": "open",
+                "name": "Spinning",
+                "room": "Spinningzaal",
+                "timeStart": "19:00",
+                "timeEnd": "20:00",
+                "teacher": "Ingrid"
+            },
+            {
+                "available_places": 16,
+                "status": "open",
+                "name": "KickBoksen",
+                "room": "Groepsleszaal",
+                "timeStart": "20:00",
+                "timeEnd": "21:00",
+                "teacher": "Dew"
+            },
+            {
+                "available_places": 11,
+                "status": "open",
+                "name": "FunXtion",
+                "room": "FunXtion Zone",
+                "timeStart": "20:30",
+                "timeEnd": "21:00",
+                "teacher": "Rumen"
+            }
+        ]
+    },
+    {
+        "location": "De Uithof",
+        "day": "Dinsdag",
+        "date": "16 juli",
+        "classes": [
+            {
+                "available_places": 24,
+                "status": "open",
+                "name": "BodyPower",
+                "room": "Groepsleszaal",
+                "timeStart": "09:00",
+                "timeEnd": "10:00",
+                "teacher": "Marijke"
+            },
+            {
+                "available_places": 24,
+                "status": "open",
+                "name": "Zumba",
+                "room": "Groepsleszaal",
+                "timeStart": "10:00",
+                "timeEnd": "11:00",
+                "teacher": "Hani"
+            },
+            {
+                "available_places": 23,
+                "status": "open",
+                "name": "Zumba",
+                "room": "Groepsleszaal",
+                "timeStart": "19:00",
+                "timeEnd": "20:00",
+                "teacher": "Hani"
+            },
+            {
+                "available_places": 4,
+                "status": "open",
+                "name": "Spinning",
+                "room": "Spinningzaal",
+                "timeStart": "19:30",
+                "timeEnd": "20:30",
+                "teacher": "Nicole"
+            },
+            {
+                "available_places": 12,
+                "status": "open",
+                "name": "FunXtion/Bootcamp",
+                "room": "FunXtion Zone",
+                "timeStart": "20:00",
+                "timeEnd": "20:30",
+                "teacher": "Jeffrey"
+            },
+            {
+                "available_places": 23,
+                "status": "open",
+                "name": "BodyShape",
+                "room": "Groepsleszaal",
+                "timeStart": "20:00",
+                "timeEnd": "21:00",
+                "teacher": "Hani"
+            }
+        ]
+    },
+    {
+        "location": "De Uithof",
+        "day": "Woensdag",
+        "date": "17 juli",
+        "classes": [
+            {
+                "available_places": 1,
+                "status": "cancelled",
+                "name": "Pilates",
+                "room": "Groepsleszaal",
+                "timeStart": "09:30",
+                "timeEnd": "10:30",
+                "teacher": "Vera"
+            },
+            {
+                "available_places": 17,
+                "status": "open",
+                "name": "Spinning",
+                "room": "Spinningzaal",
+                "timeStart": "09:30",
+                "timeEnd": "10:30",
+                "teacher": "ingrid"
+            },
+            {
+                "available_places": 12,
+                "status": "open",
+                "name": "FunXtion",
+                "room": "FunXtion Zone",
+                "timeStart": "09:45",
+                "timeEnd": "10:15",
+                "teacher": "jeffrey"
+            },
+            {
+                "available_places": 12,
+                "status": "open",
+                "name": "FunXtion 50+",
+                "room": "FunXtion Zone",
+                "timeStart": "10:30",
+                "timeEnd": "11:00",
+                "teacher": "Jeffrey"
+            },
+            {
+                "available_places": 19,
+                "status": "open",
+                "name": "KickBoksen",
+                "room": "Groepsleszaal",
+                "timeStart": "19:00",
+                "timeEnd": "20:00",
+                "teacher": "Dew"
+            },
+            {
+                "available_places": 20,
+                "status": "open",
+                "name": "BodyBalance",
+                "room": "Groepsleszaal",
+                "timeStart": "20:00",
+                "timeEnd": "21:00",
+                "teacher": "Sandra"
+            },
+            {
+                "available_places": 12,
+                "status": "open",
+                "name": "FunXtion",
+                "room": "FunXtion Zone",
+                "timeStart": "20:30",
+                "timeEnd": "21:00",
+                "teacher": "Rumen"
+            },
+            {
+                "available_places": 15,
+                "status": "open",
+                "name": "Yoga",
+                "room": "Groepsleszaal",
+                "timeStart": "21:00",
+                "timeEnd": "22:00",
+                "teacher": "Sandra"
+            }
+        ]
+    },
+    {
+        "location": "De Uithof",
+        "day": "Donderdag",
+        "date": "18 juli",
+        "classes": [
+            {
+                "available_places": 20,
+                "status": "open",
+                "name": "BodyPump",
+                "room": "Groepsleszaal",
+                "timeStart": "09:30",
+                "timeEnd": "10:30",
+                "teacher": "Anouschka"
+            },
+            {
+                "available_places": 20,
+                "status": "open",
+                "name": "BodyBalance",
+                "room": "Groepsleszaal",
+                "timeStart": "10:30",
+                "timeEnd": "11:30",
+                "teacher": "Sandra"
+            },
+            {
+                "available_places": 21,
+                "status": "open",
+                "name": "BBB",
+                "room": "Groepsleszaal",
+                "timeStart": "19:00",
+                "timeEnd": "20:00",
+                "teacher": "Cumali"
+            },
+            {
+                "available_places": 30,
+                "status": "open",
+                "name": "Latin Dance",
+                "room": "Groepsleszaal",
+                "timeStart": "20:00",
+                "timeEnd": "21:00",
+                "teacher": "Cumali"
+            },
+            {
+                "available_places": 12,
+                "status": "open",
+                "name": "FunXtion",
+                "room": "FunXtion Zone",
+                "timeStart": "20:15",
+                "timeEnd": "21:00",
+                "teacher": "Remco"
+            }
+        ]
+    },
+    {
+        "location": "De Uithof",
+        "day": "Vrijdag",
+        "date": "19 juli",
+        "classes": [
+            {
+                "available_places": 1,
+                "status": "cancelled",
+                "name": "Yoga",
+                "room": "Groepsleszaal",
+                "timeStart": "08:30",
+                "timeEnd": "09:30",
+                "teacher": "Sandra"
+            },
+            {
+                "available_places": 1,
+                "status": "cancelled",
+                "name": "Pilates",
+                "room": "Groepsleszaal",
+                "timeStart": "09:30",
+                "timeEnd": "10:30",
+                "teacher": "Sandra"
+            },
+            {
+                "available_places": 19,
+                "status": "open",
+                "name": "Spinning",
+                "room": "Spinningzaal",
+                "timeStart": "09:30",
+                "timeEnd": "10:30",
+                "teacher": "Ingrid"
+            },
+            {
+                "available_places": 11,
+                "status": "open",
+                "name": "FunXtion",
+                "room": "FunXtion Zone",
+                "timeStart": "09:45",
+                "timeEnd": "10:15",
+                "teacher": "Jeffrey"
+            },
+            {
+                "available_places": 20,
+                "status": "open",
+                "name": "50+",
+                "room": "Groepsleszaal",
+                "timeStart": "10:30",
+                "timeEnd": "11:30",
+                "teacher": "Kasita"
+            },
+            {
+                "available_places": 12,
+                "status": "open",
+                "name": "FunXtion",
+                "room": "FunXtion Zone",
+                "timeStart": "19:30",
+                "timeEnd": "20:00",
+                "teacher": "Jake"
+            }
+        ]
+    },
+    {
+        "location": "Forepark",
+        "day": "Zaterdag",
+        "date": "6 juli",
+        "classes": [
+            {
+                "available_places": 16,
+                "status": "open",
+                "name": "BodyPump",
+                "room": "Groepsleszaal",
+                "timeStart": "09:30",
+                "timeEnd": "10:30",
+                "teacher": "Rebecca"
+            },
+            {
+                "available_places": 17,
+                "status": "open",
+                "name": "BodyCombat",
+                "room": "Groepsleszaal",
+                "timeStart": "10:30",
+                "timeEnd": "11:30",
+                "teacher": "Rebecca"
+            },
+            {
+                "available_places": 12,
+                "status": "open",
+                "name": "FunXtion/Move-It",
+                "room": "FunXtion Zone",
+                "timeStart": "14:00",
+                "timeEnd": "14:30",
+                "teacher": "Esther"
+            }
+        ]
+    },
+    {
+        "location": "Forepark",
+        "day": "Zondag",
+        "date": "7 juli",
+        "classes": [
+            {
+                "available_places": 18,
+                "status": "open",
+                "name": "BodyStep",
+                "room": "Groepsleszaal",
+                "timeStart": "10:00",
+                "timeEnd": "11:00",
+                "teacher": "Estelle"
+            },
+            {
+                "available_places": 19,
+                "status": "open",
+                "name": "BodyBalance",
+                "room": "Groepsleszaal",
+                "timeStart": "11:00",
+                "timeEnd": "12:00",
+                "teacher": "Estelle"
+            },
+            {
+                "available_places": 12,
+                "status": "open",
+                "name": "FunXtion/Move-It",
+                "room": "FunXtion Zone",
+                "timeStart": "14:00",
+                "timeEnd": "14:30",
+                "teacher": "Michael"
+            }
+        ]
+    },
+    {
+        "location": "Forepark",
+        "day": "Maandag",
+        "date": "8 juli",
+        "classes": [
+            {
+                "available_places": 11,
+                "status": "open",
+                "name": "FunXtion/Move-It",
+                "room": "FunXtion Zone",
+                "timeStart": "09:30",
+                "timeEnd": "10:00",
+                "teacher": "Enrico"
+            },
+            {
+                "available_places": 20,
+                "status": "open",
+                "name": "BodyCombat",
+                "room": "Groepsleszaal",
+                "timeStart": "19:00",
+                "timeEnd": "20:00",
+                "teacher": "Marco"
+            },
+            {
+                "available_places": 12,
+                "status": "open",
+                "name": "Funxtion/Move-It",
+                "room": "FunXtion Zone",
+                "timeStart": "20:00",
+                "timeEnd": "20:30",
+                "teacher": "Job"
+            },
+            {
+                "available_places": 23,
+                "status": "open",
+                "name": "BodyPump",
+                "room": "Groepsleszaal",
+                "timeStart": "20:00",
+                "timeEnd": "21:00",
+                "teacher": "Marco"
+            }
+        ]
+    },
+    {
+        "location": "Forepark",
+        "day": "Dinsdag",
+        "date": "9 juli",
+        "classes": [
+            {
+                "available_places": 21,
+                "status": "open",
+                "name": "BodyPump",
+                "room": "Groepsleszaal",
+                "timeStart": "09:15",
+                "timeEnd": "10:15",
+                "teacher": "Saray"
+            },
+            {
+                "available_places": 12,
+                "status": "open",
+                "name": "FunXtion/Move-It",
+                "room": "FunXtion Zone",
+                "timeStart": "09:30",
+                "timeEnd": "10:00",
+                "teacher": "Abbas"
+            },
+            {
+                "available_places": 23,
+                "status": "open",
+                "name": "BodyBalance",
+                "room": "Groepsleszaal",
+                "timeStart": "10:15",
+                "timeEnd": "11:15",
+                "teacher": "Saray"
+            },
+            {
+                "available_places": 20,
+                "status": "open",
+                "name": "Zumba",
+                "room": "Groepsleszaal",
+                "timeStart": "19:00",
+                "timeEnd": "20:00",
+                "teacher": "Stefanie"
+            },
+            {
+                "available_places": 11,
+                "status": "open",
+                "name": "FunXtion/Move-It",
+                "room": "FunXtion Zone",
+                "timeStart": "20:00",
+                "timeEnd": "20:30",
+                "teacher": "Michael"
+            }
+        ]
+    },
+    {
+        "location": "Forepark",
+        "day": "Woensdag",
+        "date": "10 juli",
+        "classes": [
+            {
+                "available_places": 22,
+                "status": "open",
+                "name": "BodyShape",
+                "room": "Groepsleszaal",
+                "timeStart": "09:15",
+                "timeEnd": "10:15",
+                "teacher": "Jeannette"
+            },
+            {
+                "available_places": 12,
+                "status": "open",
+                "name": "FunXtion/Move-It",
+                "room": "FunXtion Zone",
+                "timeStart": "09:30",
+                "timeEnd": "10:00",
+                "teacher": "Yonni"
+            },
+            {
+                "available_places": 23,
+                "status": "open",
+                "name": "Yoga",
+                "room": "Groepsleszaal",
+                "timeStart": "10:15",
+                "timeEnd": "11:15",
+                "teacher": "Jeannette"
+            },
+            {
+                "available_places": 20,
+                "status": "open",
+                "name": "BodyPump",
+                "room": "Groepsleszaal",
+                "timeStart": "18:30",
+                "timeEnd": "19:30",
+                "teacher": "Rebecca"
+            },
+            {
+                "available_places": 19,
+                "status": "open",
+                "name": "BodyCombat",
+                "room": "Groepsleszaal",
+                "timeStart": "19:30",
+                "timeEnd": "20:30",
+                "teacher": "Rebecca"
+            },
+            {
+                "available_places": 12,
+                "status": "open",
+                "name": "FunXtion/Move-It",
+                "room": "FunXtion Zone",
+                "timeStart": "20:00",
+                "timeEnd": "20:30",
+                "teacher": "Yonni"
+            }
+        ]
+    },
+    {
+        "location": "Forepark",
+        "day": "Donderdag",
+        "date": "11 juli",
+        "classes": [
+            {
+                "available_places": 20,
+                "status": "open",
+                "name": "BodyBalance",
+                "room": "Groepsleszaal",
+                "timeStart": "08:15",
+                "timeEnd": "09:15",
+                "teacher": "Saray"
+            },
+            {
+                "available_places": 19,
+                "status": "open",
+                "name": "Zumba",
+                "room": "Groepsleszaal",
+                "timeStart": "09:15",
+                "timeEnd": "10:15",
+                "teacher": "Saray"
+            },
+            {
+                "available_places": 12,
+                "status": "open",
+                "name": "FunXtion/Move-It",
+                "room": "FunXtion Zone",
+                "timeStart": "09:30",
+                "timeEnd": "10:00",
+                "teacher": "Ruben"
+            },
+            {
+                "available_places": 12,
+                "status": "open",
+                "name": "Funxtion/Move-It",
+                "room": "FunXtion Zone",
+                "timeStart": "20:00",
+                "timeEnd": "20:30",
+                "teacher": "Abbas"
+            },
+            {
+                "available_places": 22,
+                "status": "open",
+                "name": "Dance",
+                "room": "Groepsleszaal",
+                "timeStart": "20:00",
+                "timeEnd": "21:00",
+                "teacher": "Love"
+            }
+        ]
+    },
+    {
+        "location": "Forepark",
+        "day": "Vrijdag",
+        "date": "12 juli",
+        "classes": [
+            {
+                "available_places": 22,
+                "status": "open",
+                "name": "BBB",
+                "room": "Groepsleszaal",
+                "timeStart": "09:15",
+                "timeEnd": "10:15",
+                "teacher": "Jeannette"
+            },
+            {
+                "available_places": 12,
+                "status": "open",
+                "name": "FunXtion/Move-It",
+                "room": "FunXtion Zone",
+                "timeStart": "09:30",
+                "timeEnd": "10:00",
+                "teacher": "Michael"
+            },
+            {
+                "available_places": 22,
+                "status": "open",
+                "name": "Yoga",
+                "room": "Groepsleszaal",
+                "timeStart": "10:15",
+                "timeEnd": "11:15",
+                "teacher": "Jeannette"
+            }
+        ]
+    },
+    {
+        "location": "Forepark",
+        "day": "Zaterdag",
+        "date": "13 juli",
+        "classes": [
+            {
+                "available_places": 23,
+                "status": "open",
+                "name": "BodyPump",
+                "room": "Groepsleszaal",
+                "timeStart": "09:30",
+                "timeEnd": "10:30",
+                "teacher": "Rebecca"
+            },
+            {
+                "available_places": 23,
+                "status": "open",
+                "name": "BodyCombat",
+                "room": "Groepsleszaal",
+                "timeStart": "10:30",
+                "timeEnd": "11:30",
+                "teacher": "Rebecca"
+            },
+            {
+                "available_places": 12,
+                "status": "open",
+                "name": "FunXtion/Move-It",
+                "room": "FunXtion Zone",
+                "timeStart": "14:00",
+                "timeEnd": "14:30",
+                "teacher": "Esther"
+            }
+        ]
+    },
+    {
+        "location": "Forepark",
+        "day": "Zondag",
+        "date": "14 juli",
+        "classes": [
+            {
+                "available_places": 21,
+                "status": "open",
+                "name": "BodyStep",
+                "room": "Groepsleszaal",
+                "timeStart": "10:00",
+                "timeEnd": "11:00",
+                "teacher": "Estelle"
+            },
+            {
+                "available_places": 21,
+                "status": "open",
+                "name": "BodyBalance",
+                "room": "Groepsleszaal",
+                "timeStart": "11:00",
+                "timeEnd": "12:00",
+                "teacher": "Estelle"
+            },
+            {
+                "available_places": 12,
+                "status": "open",
+                "name": "FunXtion/Move-It",
+                "room": "FunXtion Zone",
+                "timeStart": "14:00",
+                "timeEnd": "14:30",
+                "teacher": "Onbekend"
+            }
+        ]
+    },
+    {
+        "location": "Forepark",
+        "day": "Maandag",
+        "date": "15 juli",
+        "classes": [
+            {
+                "available_places": 12,
+                "status": "open",
+                "name": "FunXtion/Move-It",
+                "room": "FunXtion Zone",
+                "timeStart": "09:30",
+                "timeEnd": "10:00",
+                "teacher": "Enrico"
+            },
+            {
+                "available_places": 21,
+                "status": "open",
+                "name": "BodyCombat",
+                "room": "Groepsleszaal",
+                "timeStart": "19:00",
+                "timeEnd": "20:00",
+                "teacher": "Marco"
+            },
+            {
+                "available_places": 12,
+                "status": "open",
+                "name": "Funxtion/Move-It",
+                "room": "FunXtion Zone",
+                "timeStart": "20:00",
+                "timeEnd": "20:30",
+                "teacher": "Job"
+            },
+            {
+                "available_places": 23,
+                "status": "open",
+                "name": "BodyPump",
+                "room": "Groepsleszaal",
+                "timeStart": "20:00",
+                "timeEnd": "21:00",
+                "teacher": "Marco"
+            }
+        ]
+    },
+    {
+        "location": "Forepark",
+        "day": "Dinsdag",
+        "date": "16 juli",
+        "classes": [
+            {
+                "available_places": 23,
+                "status": "open",
+                "name": "BodyPump",
+                "room": "Groepsleszaal",
+                "timeStart": "09:15",
+                "timeEnd": "10:15",
+                "teacher": "Marieke"
+            },
+            {
+                "available_places": 12,
+                "status": "open",
+                "name": "FunXtion/Move-It",
+                "room": "FunXtion Zone",
+                "timeStart": "09:30",
+                "timeEnd": "10:00",
+                "teacher": "Abbas"
+            },
+            {
+                "available_places": 23,
+                "status": "open",
+                "name": "BodyBalance",
+                "room": "Groepsleszaal",
+                "timeStart": "10:15",
+                "timeEnd": "11:15",
+                "teacher": "Sandra van de Berg"
+            },
+            {
+                "available_places": 20,
+                "status": "open",
+                "name": "Zumba",
+                "room": "Groepsleszaal",
+                "timeStart": "19:00",
+                "timeEnd": "20:00",
+                "teacher": "Stefanie"
+            },
+            {
+                "available_places": 12,
+                "status": "open",
+                "name": "FunXtion/Move-It",
+                "room": "FunXtion Zone",
+                "timeStart": "20:00",
+                "timeEnd": "20:30",
+                "teacher": "Michael"
+            }
+        ]
+    },
+    {
+        "location": "Forepark",
+        "day": "Woensdag",
+        "date": "17 juli",
+        "classes": [
+            {
+                "available_places": 23,
+                "status": "open",
+                "name": "BodyShape",
+                "room": "Groepsleszaal",
+                "timeStart": "09:15",
+                "timeEnd": "10:15",
+                "teacher": "Jeannette"
+            },
+            {
+                "available_places": 12,
+                "status": "open",
+                "name": "FunXtion/Move-It",
+                "room": "FunXtion Zone",
+                "timeStart": "09:30",
+                "timeEnd": "10:00",
+                "teacher": "Yonni"
+            },
+            {
+                "available_places": 23,
+                "status": "open",
+                "name": "Yoga",
+                "room": "Groepsleszaal",
+                "timeStart": "10:15",
+                "timeEnd": "11:15",
+                "teacher": "Jeannette"
+            },
+            {
+                "available_places": 22,
+                "status": "open",
+                "name": "BodyPump",
+                "room": "Groepsleszaal",
+                "timeStart": "18:30",
+                "timeEnd": "19:30",
+                "teacher": "Rebecca"
+            },
+            {
+                "available_places": 21,
+                "status": "open",
+                "name": "BodyCombat",
+                "room": "Groepsleszaal",
+                "timeStart": "19:30",
+                "timeEnd": "20:30",
+                "teacher": "Rebecca"
+            },
+            {
+                "available_places": 12,
+                "status": "open",
+                "name": "FunXtion/Move-It",
+                "room": "FunXtion Zone",
+                "timeStart": "20:00",
+                "timeEnd": "20:30",
+                "teacher": "Yonni"
+            }
+        ]
+    },
+    {
+        "location": "Forepark",
+        "day": "Donderdag",
+        "date": "18 juli",
+        "classes": [
+            {
+                "available_places": 20,
+                "status": "open",
+                "name": "BBB",
+                "room": "Groepsleszaal",
+                "timeStart": "08:15",
+                "timeEnd": "09:15",
+                "teacher": "Jackie"
+            },
+            {
+                "available_places": 20,
+                "status": "open",
+                "name": "Zumba",
+                "room": "Groepsleszaal",
+                "timeStart": "09:15",
+                "timeEnd": "10:15",
+                "teacher": "Jackie"
+            },
+            {
+                "available_places": 12,
+                "status": "open",
+                "name": "FunXtion/Move-It",
+                "room": "FunXtion Zone",
+                "timeStart": "09:30",
+                "timeEnd": "10:00",
+                "teacher": "Ruben"
+            },
+            {
+                "available_places": 12,
+                "status": "open",
+                "name": "Funxtion/Move-It",
+                "room": "FunXtion Zone",
+                "timeStart": "20:00",
+                "timeEnd": "20:30",
+                "teacher": "Abbas"
+            },
+            {
+                "available_places": 23,
+                "status": "open",
+                "name": "Dance",
+                "room": "Groepsleszaal",
+                "timeStart": "20:00",
+                "timeEnd": "21:00",
+                "teacher": "Love"
+            }
+        ]
+    },
+    {
+        "location": "Forepark",
+        "day": "Vrijdag",
+        "date": "19 juli",
+        "classes": [
+            {
+                "available_places": 23,
+                "status": "open",
+                "name": "BBB",
+                "room": "Groepsleszaal",
+                "timeStart": "09:15",
+                "timeEnd": "10:15",
+                "teacher": "Jeannette"
+            },
+            {
+                "available_places": 12,
+                "status": "open",
+                "name": "FunXtion/Move-It",
+                "room": "FunXtion Zone",
+                "timeStart": "09:30",
+                "timeEnd": "10:00",
+                "teacher": "Michael"
+            },
+            {
+                "available_places": 23,
+                "status": "open",
+                "name": "Yoga",
+                "room": "Groepsleszaal",
+                "timeStart": "10:15",
+                "timeEnd": "11:15",
+                "teacher": "Jeannette"
+            }
+        ]
+    },
+    {
+        "location": "Hollands Spoor",
+        "day": "Zaterdag",
+        "date": "6 juli",
+        "classes": [
+            {
+                "available_places": 9,
+                "status": "open",
+                "name": "Zumba",
+                "room": "Groepsleszaal",
+                "timeStart": "09:30",
+                "timeEnd": "10:30",
+                "teacher": "Mila"
+            },
+            {
+                "available_places": 12,
+                "status": "open",
+                "name": "RPM",
+                "room": "Spinningzaal",
+                "timeStart": "11:30",
+                "timeEnd": "12:30",
+                "teacher": "Vanita"
+            },
+            {
+                "available_places": 12,
+                "status": "open",
+                "name": "Funxtion",
+                "room": "FunXtion Zone",
+                "timeStart": "14:00",
+                "timeEnd": "14:30",
+                "teacher": "Chester"
+            }
+        ]
+    },
+    {
+        "location": "Hollands Spoor",
+        "day": "Zondag",
+        "date": "7 juli",
+        "classes": [
+            {
+                "available_places": 16,
+                "status": "open",
+                "name": "Brazilian Dance",
+                "room": "Groepsleszaal",
+                "timeStart": "10:00",
+                "timeEnd": "11:00",
+                "teacher": "Jacqueline"
+            },
+            {
+                "available_places": 18,
+                "status": "open",
+                "name": "BBB",
+                "room": "Groepsleszaal",
+                "timeStart": "11:00",
+                "timeEnd": "12:00",
+                "teacher": "Jacqueline"
+            },
+            {
+                "available_places": 12,
+                "status": "open",
+                "name": "Funxtion",
+                "room": "FunXtion Zone",
+                "timeStart": "14:00",
+                "timeEnd": "14:30",
+                "teacher": "Marco"
+            }
+        ]
+    },
+    {
+        "location": "Hollands Spoor",
+        "day": "Maandag",
+        "date": "8 juli",
+        "classes": [
+            {
+                "available_places": 19,
+                "status": "open",
+                "name": "Zumba",
+                "room": "Groepsleszaal",
+                "timeStart": "09:00",
+                "timeEnd": "10:00",
+                "teacher": "Hanifa"
+            },
+            {
+                "available_places": 12,
+                "status": "open",
+                "name": "Funxtion",
+                "room": "FunXtion Zone",
+                "timeStart": "14:00",
+                "timeEnd": "14:30",
+                "teacher": "Reggie"
+            },
+            {
+                "available_places": 24,
+                "status": "open",
+                "name": "BodyCombat",
+                "room": "Groepsleszaal",
+                "timeStart": "18:30",
+                "timeEnd": "19:30",
+                "teacher": "Laura"
+            },
+            {
+                "available_places": 17,
+                "status": "open",
+                "name": "BodyShape",
+                "room": "Groepsleszaal",
+                "timeStart": "19:30",
+                "timeEnd": "20:30",
+                "teacher": "Hanifa"
+            },
+            {
+                "available_places": 24,
+                "status": "open",
+                "name": "Zumba",
+                "room": "Groepsleszaal",
+                "timeStart": "20:30",
+                "timeEnd": "21:30",
+                "teacher": "Hanifa"
+            }
+        ]
+    },
+    {
+        "location": "Hollands Spoor",
+        "day": "Dinsdag",
+        "date": "9 juli",
+        "classes": [
+            {
+                "available_places": 20,
+                "status": "open",
+                "name": "Kickboksen",
+                "room": "Groepsleszaal",
+                "timeStart": "20:00",
+                "timeEnd": "21:00",
+                "teacher": "Reggy"
+            },
+            {
+                "available_places": 20,
+                "status": "open",
+                "name": "Funxtion",
+                "room": "FunXtion Zone",
+                "timeStart": "20:30",
+                "timeEnd": "21:00",
+                "teacher": "Marco"
+            }
+        ]
+    },
+    {
+        "location": "Hollands Spoor",
+        "day": "Woensdag",
+        "date": "10 juli",
+        "classes": [
+            {
+                "available_places": 1,
+                "status": "open",
+                "name": "Funxtion",
+                "room": "FunXtion Zone",
+                "timeStart": "14:00",
+                "timeEnd": "14:30",
+                "teacher": "Reggie"
+            },
+            {
+                "available_places": 16,
+                "status": "open",
+                "name": "BodyShape",
+                "room": "Groepsleszaal",
+                "timeStart": "19:30",
+                "timeEnd": "20:30",
+                "teacher": "Hanifa"
+            },
+            {
+                "available_places": 23,
+                "status": "open",
+                "name": "Zumba",
+                "room": "Groepsleszaal",
+                "timeStart": "20:30",
+                "timeEnd": "21:30",
+                "teacher": "Hanifa"
+            }
+        ]
+    },
+    {
+        "location": "Hollands Spoor",
+        "day": "Donderdag",
+        "date": "11 juli",
+        "classes": [
+            {
+                "available_places": 12,
+                "status": "open",
+                "name": "Spinning",
+                "room": "Spinningzaal",
+                "timeStart": "19:00",
+                "timeEnd": "20:00",
+                "teacher": "Jerrel"
+            },
+            {
+                "available_places": 18,
+                "status": "open",
+                "name": "BodyJam",
+                "room": "Groepsleszaal",
+                "timeStart": "19:00",
+                "timeEnd": "20:00",
+                "teacher": "Mila"
+            },
+            {
+                "available_places": 12,
+                "status": "open",
+                "name": "Funxtion",
+                "room": "FunXtion Zone",
+                "timeStart": "20:30",
+                "timeEnd": "21:00",
+                "teacher": "Marco"
+            }
+        ]
+    },
+    {
+        "location": "Hollands Spoor",
+        "day": "Vrijdag",
+        "date": "12 juli",
+        "classes": [
+            {
+                "available_places": 20,
+                "status": "open",
+                "name": "BodyPump",
+                "room": "Groepsleszaal",
+                "timeStart": "10:00",
+                "timeEnd": "11:00",
+                "teacher": "Cecile"
+            },
+            {
+                "available_places": 12,
+                "status": "open",
+                "name": "Funxtion",
+                "room": "FunXtion Zone",
+                "timeStart": "11:00",
+                "timeEnd": "11:30",
+                "teacher": "Chester"
+            },
+            {
+                "available_places": 20,
+                "status": "open",
+                "name": "PowerYoga",
+                "room": "Groepsleszaal",
+                "timeStart": "11:15",
+                "timeEnd": "12:15",
+                "teacher": "Cecile"
+            },
+            {
+                "available_places": 24,
+                "status": "open",
+                "name": "Kickboksen",
+                "room": "Groepsleszaal",
+                "timeStart": "19:00",
+                "timeEnd": "20:00",
+                "teacher": "Reggy"
+            }
+        ]
+    },
+    {
+        "location": "Hollands Spoor",
+        "day": "Zaterdag",
+        "date": "13 juli",
+        "classes": [
+            {
+                "available_places": 17,
+                "status": "open",
+                "name": "Zumba",
+                "room": "Groepsleszaal",
+                "timeStart": "09:30",
+                "timeEnd": "10:30",
+                "teacher": "Mila"
+            },
+            {
+                "available_places": 12,
+                "status": "open",
+                "name": "RPM",
+                "room": "Spinningzaal",
+                "timeStart": "11:30",
+                "timeEnd": "12:30",
+                "teacher": "Vanita"
+            },
+            {
+                "available_places": 12,
+                "status": "open",
+                "name": "Funxtion",
+                "room": "FunXtion Zone",
+                "timeStart": "14:00",
+                "timeEnd": "14:30",
+                "teacher": "Chester"
+            }
+        ]
+    },
+    {
+        "location": "Hollands Spoor",
+        "day": "Zondag",
+        "date": "14 juli",
+        "classes": [
+            {
+                "available_places": 20,
+                "status": "open",
+                "name": "Brazilian Dance",
+                "room": "Groepsleszaal",
+                "timeStart": "10:00",
+                "timeEnd": "11:00",
+                "teacher": "Jacqueline"
+            },
+            {
+                "available_places": 19,
+                "status": "open",
+                "name": "BBB",
+                "room": "Groepsleszaal",
+                "timeStart": "11:00",
+                "timeEnd": "12:00",
+                "teacher": "Jacqueline"
+            },
+            {
+                "available_places": 12,
+                "status": "open",
+                "name": "Funxtion",
+                "room": "FunXtion Zone",
+                "timeStart": "14:00",
+                "timeEnd": "14:30",
+                "teacher": "Marco"
+            }
+        ]
+    },
+    {
+        "location": "Hollands Spoor",
+        "day": "Maandag",
+        "date": "15 juli",
+        "classes": [
+            {
+                "available_places": 20,
+                "status": "open",
+                "name": "Zumba",
+                "room": "Groepsleszaal",
+                "timeStart": "09:00",
+                "timeEnd": "10:00",
+                "teacher": "Hanifa"
+            },
+            {
+                "available_places": 12,
+                "status": "open",
+                "name": "Funxtion",
+                "room": "FunXtion Zone",
+                "timeStart": "14:00",
+                "timeEnd": "14:30",
+                "teacher": "Reggie"
+            },
+            {
+                "available_places": 25,
+                "status": "open",
+                "name": "BodyCombat",
+                "room": "Groepsleszaal",
+                "timeStart": "18:30",
+                "timeEnd": "19:30",
+                "teacher": "Laura"
+            },
+            {
+                "available_places": 25,
+                "status": "open",
+                "name": "BodyShape",
+                "room": "Groepsleszaal",
+                "timeStart": "19:30",
+                "timeEnd": "20:30",
+                "teacher": "Hanifa"
+            },
+            {
+                "available_places": 25,
+                "status": "open",
+                "name": "Zumba",
+                "room": "Groepsleszaal",
+                "timeStart": "20:30",
+                "timeEnd": "21:30",
+                "teacher": "Hanifa"
+            }
+        ]
+    },
+    {
+        "location": "Hollands Spoor",
+        "day": "Dinsdag",
+        "date": "16 juli",
+        "classes": [
+            {
+                "available_places": 20,
+                "status": "open",
+                "name": "Kickboksen",
+                "room": "Groepsleszaal",
+                "timeStart": "20:00",
+                "timeEnd": "21:00",
+                "teacher": "Reggy"
+            },
+            {
+                "available_places": 20,
+                "status": "open",
+                "name": "Funxtion",
+                "room": "FunXtion Zone",
+                "timeStart": "20:30",
+                "timeEnd": "21:00",
+                "teacher": "Marco"
+            }
+        ]
+    },
+    {
+        "location": "Hollands Spoor",
+        "day": "Woensdag",
+        "date": "17 juli",
+        "classes": [
+            {
+                "available_places": 1,
+                "status": "open",
+                "name": "Funxtion",
+                "room": "FunXtion Zone",
+                "timeStart": "14:00",
+                "timeEnd": "14:30",
+                "teacher": "Reggie"
+            },
+            {
+                "available_places": 20,
+                "status": "open",
+                "name": "BodyShape",
+                "room": "Groepsleszaal",
+                "timeStart": "19:30",
+                "timeEnd": "20:30",
+                "teacher": "Hanifa"
+            },
+            {
+                "available_places": 25,
+                "status": "open",
+                "name": "Zumba",
+                "room": "Groepsleszaal",
+                "timeStart": "20:30",
+                "timeEnd": "21:30",
+                "teacher": "Hanifa"
+            }
+        ]
+    },
+    {
+        "location": "Hollands Spoor",
+        "day": "Donderdag",
+        "date": "18 juli",
+        "classes": [
+            {
+                "available_places": 12,
+                "status": "open",
+                "name": "Spinning",
+                "room": "Spinningzaal",
+                "timeStart": "19:00",
+                "timeEnd": "20:00",
+                "teacher": "Jerrel"
+            },
+            {
+                "available_places": 19,
+                "status": "open",
+                "name": "BodyJam",
+                "room": "Groepsleszaal",
+                "timeStart": "19:00",
+                "timeEnd": "20:00",
+                "teacher": "Mila"
+            },
+            {
+                "available_places": 12,
+                "status": "open",
+                "name": "Funxtion",
+                "room": "FunXtion Zone",
+                "timeStart": "20:30",
+                "timeEnd": "21:00",
+                "teacher": "Marco"
+            }
+        ]
+    },
+    {
+        "location": "Hollands Spoor",
+        "day": "Vrijdag",
+        "date": "19 juli",
+        "classes": [
+            {
+                "available_places": 20,
+                "status": "open",
+                "name": "BodyPump",
+                "room": "Groepsleszaal",
+                "timeStart": "10:00",
+                "timeEnd": "11:00",
+                "teacher": "Cecile"
+            },
+            {
+                "available_places": 12,
+                "status": "open",
+                "name": "Funxtion",
+                "room": "FunXtion Zone",
+                "timeStart": "11:00",
+                "timeEnd": "11:30",
+                "teacher": "Chester"
+            },
+            {
+                "available_places": 20,
+                "status": "open",
+                "name": "PowerYoga",
+                "room": "Groepsleszaal",
+                "timeStart": "11:15",
+                "timeEnd": "12:15",
+                "teacher": "Cecile"
+            },
+            {
+                "available_places": 24,
+                "status": "open",
+                "name": "Kickboksen",
+                "room": "Groepsleszaal",
+                "timeStart": "19:00",
+                "timeEnd": "20:00",
+                "teacher": "Reggy"
+            }
+        ]
+    },
+    {
+        "location": "Houtrust",
+        "day": "Zaterdag",
+        "date": "6 juli",
+        "classes": [
+            {
+                "available_places": 2,
+                "status": "open",
+                "name": "Zumba",
+                "room": "Groepsleszaal",
+                "timeStart": "09:30",
+                "timeEnd": "10:30",
+                "teacher": "Maxime"
+            },
+            {
+                "available_places": 6,
+                "status": "open",
+                "name": "BodyBalance",
+                "room": "Groepsleszaal",
+                "timeStart": "10:30",
+                "timeEnd": "11:30",
+                "teacher": "Young"
+            },
+            {
+                "available_places": 4,
+                "status": "open",
+                "name": "Fat Attack",
+                "room": "Groepsleszaal",
+                "timeStart": "11:30",
+                "timeEnd": "12:30",
+                "teacher": "Anouschka"
+            },
+            {
+                "available_places": 17,
+                "status": "open",
+                "name": "Sh'Bam",
+                "room": "Groepsleszaal",
+                "timeStart": "12:30",
+                "timeEnd": "13:30",
+                "teacher": "Anouschka"
+            }
+        ]
+    },
+    {
+        "location": "Houtrust",
+        "day": "Zondag",
+        "date": "7 juli",
+        "classes": [
+            {
+                "available_places": 0,
+                "status": "full",
+                "name": "Blok Power",
+                "room": "Groepsleszaal",
+                "timeStart": "09:30",
+                "timeEnd": "10:45",
+                "teacher": "Onbekend"
+            },
+            {
+                "available_places": 8,
+                "status": "open",
+                "name": "Blok Dance",
+                "room": "Groepsleszaal",
+                "timeStart": "10:45",
+                "timeEnd": "11:30",
+                "teacher": "Onbekend"
+            },
+            {
+                "available_places": 15,
+                "status": "open",
+                "name": "Bootcamp",
+                "room": "Outdoor",
+                "timeStart": "11:00",
+                "timeEnd": "12:00",
+                "teacher": "Jim"
+            },
+            {
+                "available_places": 0,
+                "status": "full",
+                "name": "Bodycombat&BodyBalance",
+                "room": "Groepsleszaal",
+                "timeStart": "11:30",
+                "timeEnd": "12:30",
+                "teacher": "Onbekend"
+            }
+        ]
+    },
+    {
+        "location": "Houtrust",
+        "day": "Maandag",
+        "date": "8 juli",
+        "classes": [
+            {
+                "available_places": 0,
+                "status": "full",
+                "name": "Spinning",
+                "room": "Spinningzaal",
+                "timeStart": "08:00",
+                "timeEnd": "09:00",
+                "teacher": "Ernst"
+            },
+            {
+                "available_places": 19,
+                "status": "open",
+                "name": "BodyJam",
+                "room": "Groepsleszaal",
+                "timeStart": "09:00",
+                "timeEnd": "10:00",
+                "teacher": "Ijahe"
+            },
+            {
+                "available_places": 0,
+                "status": "full",
+                "name": "FunXtion/Move-it",
+                "room": "FunXtion Zone",
+                "timeStart": "09:30",
+                "timeEnd": "10:00",
+                "teacher": "Ernst"
+            },
+            {
+                "available_places": 10,
+                "status": "open",
+                "name": "BodyBalance",
+                "room": "Groepsleszaal",
+                "timeStart": "10:00",
+                "timeEnd": "11:00",
+                "teacher": "Anna"
+            },
+            {
+                "available_places": 1,
+                "status": "open",
+                "name": "BBB",
+                "room": "Groepsleszaal",
+                "timeStart": "11:00",
+                "timeEnd": "12:00",
+                "teacher": "Rosa"
+            },
+            {
+                "available_places": 16,
+                "status": "open",
+                "name": "50+ Fit",
+                "room": "Groepsleszaal",
+                "timeStart": "12:00",
+                "timeEnd": "13:00",
+                "teacher": "Rosa"
+            },
+            {
+                "available_places": 8,
+                "status": "open",
+                "name": "Yoga",
+                "room": "Groepsleszaal",
+                "timeStart": "13:00",
+                "timeEnd": "14:00",
+                "teacher": "Sandra"
+            },
+            {
+                "available_places": 0,
+                "status": "full",
+                "name": "Fat Attack",
+                "room": "Groepsleszaal",
+                "timeStart": "18:00",
+                "timeEnd": "19:00",
+                "teacher": "Rosa"
+            },
+            {
+                "available_places": 10,
+                "status": "open",
+                "name": "Sh'Bam",
+                "room": "Groepsleszaal",
+                "timeStart": "19:00",
+                "timeEnd": "20:00",
+                "teacher": "Anouschka"
+            },
+            {
+                "available_places": 4,
+                "status": "open",
+                "name": "FunXtion/Move-it",
+                "room": "FunXtion Zone",
+                "timeStart": "19:30",
+                "timeEnd": "20:00",
+                "teacher": "Julia/Reggy"
+            },
+            {
+                "available_places": 0,
+                "status": "full",
+                "name": "BodyPump",
+                "room": "Groepsleszaal",
+                "timeStart": "20:00",
+                "timeEnd": "21:00",
+                "teacher": "Marieke"
+            }
+        ]
+    },
+    {
+        "location": "Houtrust",
+        "day": "Dinsdag",
+        "date": "9 juli",
+        "classes": [
+            {
+                "available_places": 0,
+                "status": "full",
+                "name": "BodyPump",
+                "room": "Groepsleszaal",
+                "timeStart": "09:00",
+                "timeEnd": "10:00",
+                "teacher": "Theres"
+            },
+            {
+                "available_places": 1,
+                "status": "open",
+                "name": "FunXtion/Move-it",
+                "room": "FunXtion Zone",
+                "timeStart": "09:30",
+                "timeEnd": "10:00",
+                "teacher": "Ernst"
+            },
+            {
+                "available_places": 10,
+                "status": "open",
+                "name": "Fat Attack",
+                "room": "Groepsleszaal",
+                "timeStart": "10:00",
+                "timeEnd": "11:00",
+                "teacher": "Theres"
+            },
+            {
+                "available_places": 0,
+                "status": "full",
+                "name": "Yoga",
+                "room": "Groepsleszaal",
+                "timeStart": "11:00",
+                "timeEnd": "12:00",
+                "teacher": "Naomi"
+            },
+            {
+                "available_places": 12,
+                "status": "open",
+                "name": "Zumba",
+                "room": "Groepsleszaal",
+                "timeStart": "12:15",
+                "timeEnd": "13:15",
+                "teacher": "Chantal"
+            },
+            {
+                "available_places": 0,
+                "status": "full",
+                "name": "BodyCombat",
+                "room": "Groepsleszaal",
+                "timeStart": "18:00",
+                "timeEnd": "19:00",
+                "teacher": "Ilona"
+            },
+            {
+                "available_places": 0,
+                "status": "full",
+                "name": "BodyPump",
+                "room": "Groepsleszaal",
+                "timeStart": "19:00",
+                "timeEnd": "20:00",
+                "teacher": "Ilona"
+            },
+            {
+                "available_places": 4,
+                "status": "open",
+                "name": "FunXtion/Move-it",
+                "room": "FunXtion Zone",
+                "timeStart": "19:30",
+                "timeEnd": "20:00",
+                "teacher": "Eugenie/Julia"
+            },
+            {
+                "available_places": 10,
+                "status": "open",
+                "name": "Zumba",
+                "room": "Groepsleszaal",
+                "timeStart": "20:00",
+                "timeEnd": "21:00",
+                "teacher": "Jaqueline Lara"
+            },
+            {
+                "available_places": 21,
+                "status": "open",
+                "name": "BodyBalance",
+                "room": "Groepsleszaal",
+                "timeStart": "21:00",
+                "timeEnd": "22:00",
+                "teacher": "Anna"
+            }
+        ]
+    },
+    {
+        "location": "Houtrust",
+        "day": "Woensdag",
+        "date": "10 juli",
+        "classes": [
+            {
+                "available_places": 0,
+                "status": "full",
+                "name": "Body Shape",
+                "room": "Groepsleszaal",
+                "timeStart": "09:00",
+                "timeEnd": "10:00",
+                "teacher": "Chantal"
+            },
+            {
+                "available_places": 1,
+                "status": "open",
+                "name": "FunXtion/Move-it",
+                "room": "FunXtion Zone",
+                "timeStart": "09:30",
+                "timeEnd": "10:00",
+                "teacher": "Jim"
+            },
+            {
+                "available_places": 0,
+                "status": "full",
+                "name": "Zumba",
+                "room": "Groepsleszaal",
+                "timeStart": "10:00",
+                "timeEnd": "11:00",
+                "teacher": "Chantal"
+            },
+            {
+                "available_places": 6,
+                "status": "open",
+                "name": "50+ Fit",
+                "room": "Groepsleszaal",
+                "timeStart": "11:45",
+                "timeEnd": "12:45",
+                "teacher": "Jeannette"
+            },
+            {
+                "available_places": 0,
+                "status": "full",
+                "name": "Yoga",
+                "room": "Groepsleszaal",
+                "timeStart": "12:45",
+                "timeEnd": "13:45",
+                "teacher": "Jeannette"
+            },
+            {
+                "available_places": 0,
+                "status": "full",
+                "name": "BodyPump",
+                "room": "Groepsleszaal",
+                "timeStart": "18:00",
+                "timeEnd": "19:00",
+                "teacher": "Ilona"
+            },
+            {
+                "available_places": 0,
+                "status": "full",
+                "name": "BodyCombat",
+                "room": "Groepsleszaal",
+                "timeStart": "19:00",
+                "timeEnd": "20:00",
+                "teacher": "Ilona"
+            },
+            {
+                "available_places": 3,
+                "status": "open",
+                "name": "FunXtion/Move-it",
+                "room": "FunXtion Zone",
+                "timeStart": "19:30",
+                "timeEnd": "20:00",
+                "teacher": "Reggy"
+            },
+            {
+                "available_places": 0,
+                "status": "full",
+                "name": "Grit Strength",
+                "room": "Groepsleszaal",
+                "timeStart": "20:00",
+                "timeEnd": "20:30",
+                "teacher": "Kaya"
+            },
+            {
+                "available_places": 14,
+                "status": "open",
+                "name": "Body Balance",
+                "room": "Groepsleszaal",
+                "timeStart": "20:30",
+                "timeEnd": "21:30",
+                "teacher": "Kaya"
+            }
+        ]
+    },
+    {
+        "location": "Houtrust",
+        "day": "Donderdag",
+        "date": "11 juli",
+        "classes": [
+            {
+                "available_places": 18,
+                "status": "open",
+                "name": "BodyJam",
+                "room": "Groepsleszaal",
+                "timeStart": "09:00",
+                "timeEnd": "10:00",
+                "teacher": "Chantal"
+            },
+            {
+                "available_places": 3,
+                "status": "open",
+                "name": "FunXtion/Move-it",
+                "room": "FunXtion Zone",
+                "timeStart": "09:30",
+                "timeEnd": "10:00",
+                "teacher": "Jim"
+            },
+            {
+                "available_places": 10,
+                "status": "open",
+                "name": "BodyBalance",
+                "room": "Groepsleszaal",
+                "timeStart": "10:00",
+                "timeEnd": "11:00",
+                "teacher": "Chantal"
+            },
+            {
+                "available_places": 0,
+                "status": "full",
+                "name": "BodyPump",
+                "room": "Groepsleszaal",
+                "timeStart": "11:15",
+                "timeEnd": "12:15",
+                "teacher": "Theres"
+            },
+            {
+                "available_places": 0,
+                "status": "full",
+                "name": "BodyPump",
+                "room": "Groepsleszaal",
+                "timeStart": "18:00",
+                "timeEnd": "19:00",
+                "teacher": "Anouschka"
+            },
+            {
+                "available_places": 0,
+                "status": "full",
+                "name": "Fat Attack",
+                "room": "Groepsleszaal",
+                "timeStart": "19:00",
+                "timeEnd": "20:00",
+                "teacher": "Theres"
+            },
+            {
+                "available_places": 8,
+                "status": "open",
+                "name": "FunXtion/Move-it",
+                "room": "FunXtion Zone",
+                "timeStart": "19:30",
+                "timeEnd": "20:00",
+                "teacher": "Reggy"
+            }
+        ]
+    },
+    {
+        "location": "Houtrust",
+        "day": "Vrijdag",
+        "date": "12 juli",
+        "classes": [
+            {
+                "available_places": 0,
+                "status": "full",
+                "name": "BodyPump",
+                "room": "Groepsleszaal",
+                "timeStart": "09:00",
+                "timeEnd": "10:00",
+                "teacher": "Charlie"
+            },
+            {
+                "available_places": 0,
+                "status": "full",
+                "name": "FunXtion/Move-it",
+                "room": "FunXtion Zone",
+                "timeStart": "09:30",
+                "timeEnd": "10:00",
+                "teacher": "Ernst"
+            },
+            {
+                "available_places": 7,
+                "status": "open",
+                "name": "Grit Strength",
+                "room": "Groepsleszaal",
+                "timeStart": "10:00",
+                "timeEnd": "10:30",
+                "teacher": "Charlie"
+            },
+            {
+                "available_places": 18,
+                "status": "open",
+                "name": "Sh'Bam",
+                "room": "Groepsleszaal",
+                "timeStart": "10:30",
+                "timeEnd": "11:30",
+                "teacher": "Charlie"
+            },
+            {
+                "available_places": 0,
+                "status": "full",
+                "name": "Yoga",
+                "room": "Groepsleszaal",
+                "timeStart": "11:30",
+                "timeEnd": "12:30",
+                "teacher": "Naomi"
+            },
+            {
+                "available_places": 13,
+                "status": "open",
+                "name": "Zumba",
+                "room": "Groepsleszaal",
+                "timeStart": "12:45",
+                "timeEnd": "13:45",
+                "teacher": "Jaqueline"
+            },
+            {
+                "available_places": 0,
+                "status": "full",
+                "name": "BodyPump",
+                "room": "Groepsleszaal",
+                "timeStart": "18:00",
+                "timeEnd": "19:00",
+                "teacher": "Anouschka"
+            },
+            {
+                "available_places": 2,
+                "status": "open",
+                "name": "Grit Strength",
+                "room": "Groepsleszaal",
+                "timeStart": "19:00",
+                "timeEnd": "19:30",
+                "teacher": "ijahe"
+            },
+            {
+                "available_places": 21,
+                "status": "open",
+                "name": "BodyBalance",
+                "room": "Groepsleszaal",
+                "timeStart": "19:30",
+                "timeEnd": "20:30",
+                "teacher": "Ijahe"
+            }
+        ]
+    },
+    {
+        "location": "Houtrust",
+        "day": "Zaterdag",
+        "date": "13 juli",
+        "classes": [
+            {
+                "available_places": 0,
+                "status": "full",
+                "name": "Zumba",
+                "room": "Groepsleszaal",
+                "timeStart": "09:30",
+                "timeEnd": "10:30",
+                "teacher": "Maxime"
+            },
+            {
+                "available_places": 0,
+                "status": "full",
+                "name": "BodyBalance",
+                "room": "Groepsleszaal",
+                "timeStart": "10:30",
+                "timeEnd": "11:30",
+                "teacher": "Young"
+            },
+            {
+                "available_places": 0,
+                "status": "full",
+                "name": "Fat Attack",
+                "room": "Groepsleszaal",
+                "timeStart": "11:30",
+                "timeEnd": "12:30",
+                "teacher": "Anouschka"
+            },
+            {
+                "available_places": 17,
+                "status": "open",
+                "name": "Sh'Bam",
+                "room": "Groepsleszaal",
+                "timeStart": "12:30",
+                "timeEnd": "13:30",
+                "teacher": "Anouschka"
+            }
+        ]
+    },
+    {
+        "location": "Houtrust",
+        "day": "Zondag",
+        "date": "14 juli",
+        "classes": [
+            {
+                "available_places": 0,
+                "status": "full",
+                "name": "BodyPump",
+                "room": "Groepsleszaal",
+                "timeStart": "09:30",
+                "timeEnd": "10:30",
+                "teacher": "Anouschka"
+            },
+            {
+                "available_places": 20,
+                "status": "open",
+                "name": "Kickboksen",
+                "room": "Groepsleszaal",
+                "timeStart": "10:30",
+                "timeEnd": "11:30",
+                "teacher": "Raoef"
+            },
+            {
+                "available_places": 16,
+                "status": "open",
+                "name": "Bootcamp",
+                "room": "Outdoor",
+                "timeStart": "11:00",
+                "timeEnd": "12:00",
+                "teacher": "Roshni"
+            },
+            {
+                "available_places": 8,
+                "status": "open",
+                "name": "BodyCombat",
+                "room": "Groepsleszaal",
+                "timeStart": "11:30",
+                "timeEnd": "12:30",
+                "teacher": "Vanita"
+            },
+            {
+                "available_places": 10,
+                "status": "open",
+                "name": "CXWorx",
+                "room": "Groepsleszaal",
+                "timeStart": "12:30",
+                "timeEnd": "13:00",
+                "teacher": "Vanita"
+            }
+        ]
+    },
+    {
+        "location": "Houtrust",
+        "day": "Maandag",
+        "date": "15 juli",
+        "classes": [
+            {
+                "available_places": 4,
+                "status": "open",
+                "name": "Spinning",
+                "room": "Spinningzaal",
+                "timeStart": "08:00",
+                "timeEnd": "09:00",
+                "teacher": "Ernst"
+            },
+            {
+                "available_places": 20,
+                "status": "open",
+                "name": "BodyJam",
+                "room": "Groepsleszaal",
+                "timeStart": "09:00",
+                "timeEnd": "10:00",
+                "teacher": "Ijahe"
+            },
+            {
+                "available_places": 0,
+                "status": "full",
+                "name": "FunXtion/Move-it",
+                "room": "FunXtion Zone",
+                "timeStart": "09:30",
+                "timeEnd": "10:00",
+                "teacher": "Ernst"
+            },
+            {
+                "available_places": 18,
+                "status": "open",
+                "name": "BodyBalance",
+                "room": "Groepsleszaal",
+                "timeStart": "10:00",
+                "timeEnd": "11:00",
+                "teacher": "Anna"
+            },
+            {
+                "available_places": 3,
+                "status": "open",
+                "name": "BBB",
+                "room": "Groepsleszaal",
+                "timeStart": "11:00",
+                "timeEnd": "12:00",
+                "teacher": "Jeanette"
+            },
+            {
+                "available_places": 18,
+                "status": "open",
+                "name": "50+ Fit",
+                "room": "Groepsleszaal",
+                "timeStart": "12:00",
+                "timeEnd": "13:00",
+                "teacher": "Jeanette"
+            },
+            {
+                "available_places": 13,
+                "status": "open",
+                "name": "Yoga",
+                "room": "Groepsleszaal",
+                "timeStart": "13:00",
+                "timeEnd": "14:00",
+                "teacher": "Jeanette"
+            },
+            {
+                "available_places": 1,
+                "status": "cancelled",
+                "name": "Strong by Zumba",
+                "room": "Groepsleszaal",
+                "timeStart": "18:00",
+                "timeEnd": "19:00",
+                "teacher": "Juli"
+            },
+            {
+                "available_places": 15,
+                "status": "open",
+                "name": "Sh'Bam",
+                "room": "Groepsleszaal",
+                "timeStart": "19:00",
+                "timeEnd": "20:00",
+                "teacher": "Anouschka"
+            },
+            {
+                "available_places": 5,
+                "status": "open",
+                "name": "FunXtion/Move-it",
+                "room": "FunXtion Zone",
+                "timeStart": "19:30",
+                "timeEnd": "20:00",
+                "teacher": "Julia/Reggy"
+            },
+            {
+                "available_places": 0,
+                "status": "full",
+                "name": "BodyPump",
+                "room": "Groepsleszaal",
+                "timeStart": "20:00",
+                "timeEnd": "21:00",
+                "teacher": "Theres"
+            }
+        ]
+    },
+    {
+        "location": "Houtrust",
+        "day": "Dinsdag",
+        "date": "16 juli",
+        "classes": [
+            {
+                "available_places": 0,
+                "status": "full",
+                "name": "BodyPump",
+                "room": "Groepsleszaal",
+                "timeStart": "09:00",
+                "timeEnd": "10:00",
+                "teacher": "Theres"
+            },
+            {
+                "available_places": 5,
+                "status": "open",
+                "name": "FunXtion/Move-it",
+                "room": "FunXtion Zone",
+                "timeStart": "09:30",
+                "timeEnd": "10:00",
+                "teacher": "Ernst"
+            },
+            {
+                "available_places": 15,
+                "status": "open",
+                "name": "Fat Attack",
+                "room": "Groepsleszaal",
+                "timeStart": "10:00",
+                "timeEnd": "11:00",
+                "teacher": "Theres"
+            },
+            {
+                "available_places": 2,
+                "status": "open",
+                "name": "Yoga",
+                "room": "Groepsleszaal",
+                "timeStart": "11:00",
+                "timeEnd": "12:00",
+                "teacher": "Naomi"
+            },
+            {
+                "available_places": 17,
+                "status": "open",
+                "name": "Zumba",
+                "room": "Groepsleszaal",
+                "timeStart": "12:15",
+                "timeEnd": "13:15",
+                "teacher": "Chantal"
+            },
+            {
+                "available_places": 0,
+                "status": "full",
+                "name": "BodyCombat",
+                "room": "Groepsleszaal",
+                "timeStart": "18:00",
+                "timeEnd": "19:00",
+                "teacher": "Ilona"
+            },
+            {
+                "available_places": 0,
+                "status": "full",
+                "name": "BodyPump",
+                "room": "Groepsleszaal",
+                "timeStart": "19:00",
+                "timeEnd": "20:00",
+                "teacher": "Ilona"
+            },
+            {
+                "available_places": 9,
+                "status": "open",
+                "name": "FunXtion/Move-it",
+                "room": "FunXtion Zone",
+                "timeStart": "19:30",
+                "timeEnd": "20:00",
+                "teacher": "Eugenie/Julia"
+            },
+            {
+                "available_places": 19,
+                "status": "open",
+                "name": "Zumba",
+                "room": "Groepsleszaal",
+                "timeStart": "20:00",
+                "timeEnd": "21:00",
+                "teacher": "Jaqueline Lara"
+            },
+            {
+                "available_places": 24,
+                "status": "open",
+                "name": "BodyBalance",
+                "room": "Groepsleszaal",
+                "timeStart": "21:00",
+                "timeEnd": "22:00",
+                "teacher": "Anna"
+            }
+        ]
+    },
+    {
+        "location": "Houtrust",
+        "day": "Woensdag",
+        "date": "17 juli",
+        "classes": [
+            {
+                "available_places": 0,
+                "status": "full",
+                "name": "Body Shape",
+                "room": "Groepsleszaal",
+                "timeStart": "09:00",
+                "timeEnd": "10:00",
+                "teacher": "Chantal"
+            },
+            {
+                "available_places": 9,
+                "status": "open",
+                "name": "FunXtion/Move-it",
+                "room": "FunXtion Zone",
+                "timeStart": "09:30",
+                "timeEnd": "10:00",
+                "teacher": "Jim"
+            },
+            {
+                "available_places": 0,
+                "status": "full",
+                "name": "Zumba",
+                "room": "Groepsleszaal",
+                "timeStart": "10:00",
+                "timeEnd": "11:00",
+                "teacher": "Chantal"
+            },
+            {
+                "available_places": 20,
+                "status": "open",
+                "name": "50+ Fit",
+                "room": "Groepsleszaal",
+                "timeStart": "11:45",
+                "timeEnd": "12:45",
+                "teacher": "Jeannette"
+            },
+            {
+                "available_places": 17,
+                "status": "open",
+                "name": "Yoga",
+                "room": "Groepsleszaal",
+                "timeStart": "12:45",
+                "timeEnd": "13:45",
+                "teacher": "Jeannette"
+            },
+            {
+                "available_places": 0,
+                "status": "full",
+                "name": "BodyPump",
+                "room": "Groepsleszaal",
+                "timeStart": "18:00",
+                "timeEnd": "19:00",
+                "teacher": "Ilona"
+            },
+            {
+                "available_places": 3,
+                "status": "open",
+                "name": "BodyCombat",
+                "room": "Groepsleszaal",
+                "timeStart": "19:00",
+                "timeEnd": "20:00",
+                "teacher": "Ilona"
+            },
+            {
+                "available_places": 9,
+                "status": "open",
+                "name": "FunXtion/Move-it",
+                "room": "FunXtion Zone",
+                "timeStart": "19:30",
+                "timeEnd": "20:00",
+                "teacher": "Reggy"
+            },
+            {
+                "available_places": 5,
+                "status": "open",
+                "name": "Grit Strength",
+                "room": "Groepsleszaal",
+                "timeStart": "20:00",
+                "timeEnd": "20:30",
+                "teacher": "Kaya"
+            },
+            {
+                "available_places": 21,
+                "status": "open",
+                "name": "Body Balance",
+                "room": "Groepsleszaal",
+                "timeStart": "20:30",
+                "timeEnd": "21:30",
+                "teacher": "Kaya"
+            }
+        ]
+    },
+    {
+        "location": "Houtrust",
+        "day": "Donderdag",
+        "date": "18 juli",
+        "classes": [
+            {
+                "available_places": 20,
+                "status": "open",
+                "name": "BodyJam",
+                "room": "Groepsleszaal",
+                "timeStart": "09:00",
+                "timeEnd": "10:00",
+                "teacher": "Chantal"
+            },
+            {
+                "available_places": 10,
+                "status": "open",
+                "name": "FunXtion/Move-it",
+                "room": "FunXtion Zone",
+                "timeStart": "09:30",
+                "timeEnd": "10:00",
+                "teacher": "Jim"
+            },
+            {
+                "available_places": 19,
+                "status": "open",
+                "name": "BodyBalance",
+                "room": "Groepsleszaal",
+                "timeStart": "10:00",
+                "timeEnd": "11:00",
+                "teacher": "Chantal"
+            },
+            {
+                "available_places": 14,
+                "status": "open",
+                "name": "BodyPump",
+                "room": "Groepsleszaal",
+                "timeStart": "11:15",
+                "timeEnd": "12:15",
+                "teacher": "Theres"
+            },
+            {
+                "available_places": 0,
+                "status": "full",
+                "name": "BodyPump",
+                "room": "Groepsleszaal",
+                "timeStart": "18:00",
+                "timeEnd": "19:00",
+                "teacher": "Anouschka"
+            },
+            {
+                "available_places": 18,
+                "status": "open",
+                "name": "Fat Attack",
+                "room": "Groepsleszaal",
+                "timeStart": "19:00",
+                "timeEnd": "20:00",
+                "teacher": "Theres"
+            },
+            {
+                "available_places": 11,
+                "status": "open",
+                "name": "FunXtion/Move-it",
+                "room": "FunXtion Zone",
+                "timeStart": "19:30",
+                "timeEnd": "20:00",
+                "teacher": "Jim"
+            }
+        ]
+    },
+    {
+        "location": "Houtrust",
+        "day": "Vrijdag",
+        "date": "19 juli",
+        "classes": [
+            {
+                "available_places": 5,
+                "status": "open",
+                "name": "BodyPump",
+                "room": "Groepsleszaal",
+                "timeStart": "09:00",
+                "timeEnd": "10:00",
+                "teacher": "Charlie"
+            },
+            {
+                "available_places": 8,
+                "status": "open",
+                "name": "FunXtion/Move-it",
+                "room": "FunXtion Zone",
+                "timeStart": "09:30",
+                "timeEnd": "10:00",
+                "teacher": "Ernst"
+            },
+            {
+                "available_places": 14,
+                "status": "open",
+                "name": "Grit Strength",
+                "room": "Groepsleszaal",
+                "timeStart": "10:00",
+                "timeEnd": "10:30",
+                "teacher": "Charlie"
+            },
+            {
+                "available_places": 23,
+                "status": "open",
+                "name": "Sh'Bam",
+                "room": "Groepsleszaal",
+                "timeStart": "10:30",
+                "timeEnd": "11:30",
+                "teacher": "Charlie"
+            },
+            {
+                "available_places": 19,
+                "status": "open",
+                "name": "Yoga",
+                "room": "Groepsleszaal",
+                "timeStart": "11:30",
+                "timeEnd": "12:30",
+                "teacher": "Naomi"
+            },
+            {
+                "available_places": 22,
+                "status": "open",
+                "name": "Zumba",
+                "room": "Groepsleszaal",
+                "timeStart": "12:45",
+                "timeEnd": "13:45",
+                "teacher": "Onbekend"
+            },
+            {
+                "available_places": 18,
+                "status": "open",
+                "name": "BodyPump",
+                "room": "Groepsleszaal",
+                "timeStart": "18:00",
+                "timeEnd": "19:00",
+                "teacher": "Anouschka"
+            },
+            {
+                "available_places": 12,
+                "status": "open",
+                "name": "Grit Strength",
+                "room": "Groepsleszaal",
+                "timeStart": "19:00",
+                "timeEnd": "19:30",
+                "teacher": "ijahe"
+            },
+            {
+                "available_places": 24,
+                "status": "open",
+                "name": "BodyBalance",
+                "room": "Groepsleszaal",
+                "timeStart": "19:30",
+                "timeEnd": "20:30",
+                "teacher": "Ijahe"
+            }
+        ]
+    },
+    {
+        "location": "Leidschenveen",
+        "day": "Zaterdag",
+        "date": "6 juli",
+        "classes": [
+            {
+                "available_places": 5,
+                "status": "open",
+                "name": "BodyPump",
+                "room": "Groepsleszaal boven",
+                "timeStart": "09:30",
+                "timeEnd": "10:30",
+                "teacher": "Marieke"
+            },
+            {
+                "available_places": 1,
+                "status": "cancelled",
+                "name": "Zumba",
+                "room": "Groepsleszaal boven",
+                "timeStart": "10:30",
+                "timeEnd": "11:30",
+                "teacher": "Stefanie"
+            }
+        ]
+    },
+    {
+        "location": "Leidschenveen",
+        "day": "Zondag",
+        "date": "7 juli",
+        "classes": [
+            {
+                "available_places": 1,
+                "status": "cancelled",
+                "name": "Strong by Zumba",
+                "room": "Groepsleszaal boven",
+                "timeStart": "09:15",
+                "timeEnd": "10:15",
+                "teacher": "Viktoriia"
+            },
+            {
+                "available_places": 1,
+                "status": "cancelled",
+                "name": "PowerHoop",
+                "room": "Groepsleszaal boven",
+                "timeStart": "10:15",
+                "timeEnd": "11:15",
+                "teacher": "Sadie"
+            }
+        ]
+    },
+    {
+        "location": "Leidschenveen",
+        "day": "Maandag",
+        "date": "8 juli",
+        "classes": [
+            {
+                "available_places": 17,
+                "status": "open",
+                "name": "BBB",
+                "room": "Groepsleszaal boven",
+                "timeStart": "10:30",
+                "timeEnd": "11:30",
+                "teacher": "Saray"
+            },
+            {
+                "available_places": 17,
+                "status": "open",
+                "name": "Yoga",
+                "room": "Groepsleszaal boven",
+                "timeStart": "11:30",
+                "timeEnd": "12:30",
+                "teacher": "Saray"
+            },
+            {
+                "available_places": 14,
+                "status": "open",
+                "name": "BBB",
+                "room": "Groepsleszaal boven",
+                "timeStart": "19:00",
+                "timeEnd": "20:00",
+                "teacher": "Cedilla"
+            }
+        ]
+    },
+    {
+        "location": "Leidschenveen",
+        "day": "Dinsdag",
+        "date": "9 juli",
+        "classes": [
+            {
+                "available_places": 19,
+                "status": "open",
+                "name": "Strong by Zumba",
+                "room": "Groepsleszaal boven",
+                "timeStart": "19:00",
+                "timeEnd": "20:00",
+                "teacher": "Viktoriia"
+            },
+            {
+                "available_places": 14,
+                "status": "open",
+                "name": "BodyPower",
+                "room": "Groepsleszaal boven",
+                "timeStart": "20:00",
+                "timeEnd": "21:00",
+                "teacher": "Cedilla"
+            }
+        ]
+    },
+    {
+        "location": "Leidschenveen",
+        "day": "Woensdag",
+        "date": "10 juli",
+        "classes": [
+            {
+                "available_places": 17,
+                "status": "open",
+                "name": "BBB",
+                "room": "Groepsleszaal boven",
+                "timeStart": "09:30",
+                "timeEnd": "10:30",
+                "teacher": "Saray"
+            },
+            {
+                "available_places": 20,
+                "status": "open",
+                "name": "BodyBalance",
+                "room": "Groepsleszaal boven",
+                "timeStart": "10:30",
+                "timeEnd": "11:30",
+                "teacher": "Saray"
+            },
+            {
+                "available_places": 19,
+                "status": "open",
+                "name": "BodyPump",
+                "room": "Groepsleszaal boven",
+                "timeStart": "19:00",
+                "timeEnd": "20:00",
+                "teacher": "Dymph"
+            }
+        ]
+    },
+    {
+        "location": "Leidschenveen",
+        "day": "Donderdag",
+        "date": "11 juli",
+        "classes": [
+            {
+                "available_places": 18,
+                "status": "open",
+                "name": "BodyPower",
+                "room": "Groepsleszaal boven",
+                "timeStart": "09:15",
+                "timeEnd": "10:15",
+                "teacher": "Jeannette"
+            },
+            {
+                "available_places": 19,
+                "status": "open",
+                "name": "BodyShape",
+                "room": "Groepsleszaal boven",
+                "timeStart": "10:15",
+                "timeEnd": "11:15",
+                "teacher": "Jeannette"
+            },
+            {
+                "available_places": 20,
+                "status": "open",
+                "name": "Yoga",
+                "room": "Groepsleszaal boven",
+                "timeStart": "11:15",
+                "timeEnd": "12:15",
+                "teacher": "Jeannette"
+            },
+            {
+                "available_places": 17,
+                "status": "open",
+                "name": "Brazilian BBB",
+                "room": "Groepsleszaal boven",
+                "timeStart": "18:30",
+                "timeEnd": "19:30",
+                "teacher": "Jacqueline"
+            },
+            {
+                "available_places": 19,
+                "status": "open",
+                "name": "Brazilian Dance",
+                "room": "Groepsleszaal boven",
+                "timeStart": "19:30",
+                "timeEnd": "20:30",
+                "teacher": "Jacqueline"
+            }
+        ]
+    },
+    {
+        "location": "Leidschenveen",
+        "day": "Vrijdag",
+        "date": "12 juli",
+        "classes": [
+            {
+                "available_places": 20,
+                "status": "open",
+                "name": "BodyBalance",
+                "room": "Groepsleszaal boven",
+                "timeStart": "08:15",
+                "timeEnd": "09:15",
+                "teacher": "Sandra van de Berg"
+            },
+            {
+                "available_places": 19,
+                "status": "open",
+                "name": "Vitaal+",
+                "room": "Groepsleszaal boven",
+                "timeStart": "09:15",
+                "timeEnd": "10:15",
+                "teacher": "Cedilla"
+            },
+            {
+                "available_places": 20,
+                "status": "open",
+                "name": "Strong by Zumba",
+                "room": "Groepsleszaal boven",
+                "timeStart": "19:00",
+                "timeEnd": "20:00",
+                "teacher": "Viktoriia"
+            }
+        ]
+    },
+    {
+        "location": "Leidschenveen",
+        "day": "Zaterdag",
+        "date": "13 juli",
+        "classes": [
+            {
+                "available_places": 20,
+                "status": "open",
+                "name": "BodyPump",
+                "room": "Groepsleszaal boven",
+                "timeStart": "09:30",
+                "timeEnd": "10:30",
+                "teacher": "Marieke"
+            },
+            {
+                "available_places": 19,
+                "status": "open",
+                "name": "Zumba",
+                "room": "Groepsleszaal boven",
+                "timeStart": "10:30",
+                "timeEnd": "11:30",
+                "teacher": "Stefanie"
+            }
+        ]
+    },
+    {
+        "location": "Leidschenveen",
+        "day": "Zondag",
+        "date": "14 juli",
+        "classes": [
+            {
+                "available_places": 1,
+                "status": "cancelled",
+                "name": "Strong by Zumba",
+                "room": "Groepsleszaal boven",
+                "timeStart": "09:15",
+                "timeEnd": "10:15",
+                "teacher": "Viktoriia"
+            },
+            {
+                "available_places": 14,
+                "status": "open",
+                "name": "PowerHoop",
+                "room": "Groepsleszaal boven",
+                "timeStart": "10:15",
+                "timeEnd": "11:15",
+                "teacher": "Sadie"
+            }
+        ]
+    },
+    {
+        "location": "Leidschenveen",
+        "day": "Maandag",
+        "date": "15 juli",
+        "classes": [
+            {
+                "available_places": 1,
+                "status": "cancelled",
+                "name": "50+ Fit",
+                "room": "Groepsleszaal boven",
+                "timeStart": "09:30",
+                "timeEnd": "10:00",
+                "teacher": "Michael"
+            },
+            {
+                "available_places": 20,
+                "status": "open",
+                "name": "BodyPump",
+                "room": "Groepsleszaal boven",
+                "timeStart": "10:30",
+                "timeEnd": "11:30",
+                "teacher": "Marieke"
+            },
+            {
+                "available_places": 20,
+                "status": "open",
+                "name": "Yoga",
+                "room": "Groepsleszaal boven",
+                "timeStart": "11:30",
+                "timeEnd": "12:30",
+                "teacher": "Sandra van de Berg"
+            },
+            {
+                "available_places": 17,
+                "status": "open",
+                "name": "BBB",
+                "room": "Groepsleszaal boven",
+                "timeStart": "19:00",
+                "timeEnd": "20:00",
+                "teacher": "Cedilla"
+            }
+        ]
+    },
+    {
+        "location": "Leidschenveen",
+        "day": "Dinsdag",
+        "date": "16 juli",
+        "classes": [
+            {
+                "available_places": 20,
+                "status": "open",
+                "name": "Strong by Zumba",
+                "room": "Groepsleszaal boven",
+                "timeStart": "19:00",
+                "timeEnd": "20:00",
+                "teacher": "Viktoriia"
+            },
+            {
+                "available_places": 20,
+                "status": "open",
+                "name": "BodyPower",
+                "room": "Groepsleszaal boven",
+                "timeStart": "20:00",
+                "timeEnd": "21:00",
+                "teacher": "Cedilla"
+            }
+        ]
+    },
+    {
+        "location": "Leidschenveen",
+        "day": "Woensdag",
+        "date": "17 juli",
+        "classes": [
+            {
+                "available_places": 1,
+                "status": "cancelled",
+                "name": "BBB",
+                "room": "Groepsleszaal boven",
+                "timeStart": "09:30",
+                "timeEnd": "10:30",
+                "teacher": "Saray"
+            },
+            {
+                "available_places": 1,
+                "status": "cancelled",
+                "name": "BodyBalance",
+                "room": "Groepsleszaal boven",
+                "timeStart": "10:30",
+                "timeEnd": "11:30",
+                "teacher": "Saray"
+            },
+            {
+                "available_places": 20,
+                "status": "open",
+                "name": "BodyPump",
+                "room": "Groepsleszaal boven",
+                "timeStart": "19:00",
+                "timeEnd": "20:00",
+                "teacher": "Dymph"
+            }
+        ]
+    },
+    {
+        "location": "Leidschenveen",
+        "day": "Donderdag",
+        "date": "18 juli",
+        "classes": [
+            {
+                "available_places": 20,
+                "status": "open",
+                "name": "BodyPower",
+                "room": "Groepsleszaal boven",
+                "timeStart": "09:15",
+                "timeEnd": "10:15",
+                "teacher": "Jeannette"
+            },
+            {
+                "available_places": 20,
+                "status": "open",
+                "name": "BodyShape",
+                "room": "Groepsleszaal boven",
+                "timeStart": "10:15",
+                "timeEnd": "11:15",
+                "teacher": "Jeannette"
+            },
+            {
+                "available_places": 20,
+                "status": "open",
+                "name": "Yoga",
+                "room": "Groepsleszaal boven",
+                "timeStart": "11:15",
+                "timeEnd": "12:15",
+                "teacher": "Jeannette"
+            },
+            {
+                "available_places": 20,
+                "status": "open",
+                "name": "Brazilian BBB",
+                "room": "Groepsleszaal boven",
+                "timeStart": "18:30",
+                "timeEnd": "19:30",
+                "teacher": "Jacqueline"
+            },
+            {
+                "available_places": 20,
+                "status": "open",
+                "name": "Brazilian Dance",
+                "room": "Groepsleszaal boven",
+                "timeStart": "19:30",
+                "timeEnd": "20:30",
+                "teacher": "Jacqueline"
+            }
+        ]
+    },
+    {
+        "location": "Leidschenveen",
+        "day": "Vrijdag",
+        "date": "19 juli",
+        "classes": [
+            {
+                "available_places": 20,
+                "status": "open",
+                "name": "BodyBalance",
+                "room": "Groepsleszaal boven",
+                "timeStart": "08:15",
+                "timeEnd": "09:15",
+                "teacher": "Sandra van de Berg"
+            },
+            {
+                "available_places": 20,
+                "status": "open",
+                "name": "Vitaal+",
+                "room": "Groepsleszaal boven",
+                "timeStart": "09:15",
+                "timeEnd": "10:15",
+                "teacher": "Cedilla"
+            },
+            {
+                "available_places": 23,
+                "status": "open",
+                "name": "Strong by Zumba",
+                "room": "Groepsleszaal boven",
+                "timeStart": "19:00",
+                "timeEnd": "20:00",
+                "teacher": "Viktoriia"
+            }
+        ]
+    },
+    {
+        "location": "Loosduinseweg",
+        "day": "Zaterdag",
+        "date": "6 juli",
+        "classes": [
+            {
+                "available_places": 3,
+                "status": "open",
+                "name": "Grit Cardio",
+                "room": "Groepsleszaal",
+                "timeStart": "09:15",
+                "timeEnd": "09:45",
+                "teacher": "Kaya"
+            },
+            {
+                "available_places": 10,
+                "status": "open",
+                "name": "FunXtion | Move it",
+                "room": "FunXtion Zone",
+                "timeStart": "09:30",
+                "timeEnd": "10:00",
+                "teacher": "Sieuwert"
+            },
+            {
+                "available_places": 5,
+                "status": "open",
+                "name": "BodyPump",
+                "room": "Groepsleszaal",
+                "timeStart": "10:00",
+                "timeEnd": "11:00",
+                "teacher": "Kaya"
+            },
+            {
+                "available_places": 14,
+                "status": "open",
+                "name": "Pilates",
+                "room": "Groepsleszaal",
+                "timeStart": "11:00",
+                "timeEnd": "12:00",
+                "teacher": "Stephanie V"
+            },
+            {
+                "available_places": 4,
+                "status": "open",
+                "name": "BBB",
+                "room": "Groepsleszaal",
+                "timeStart": "12:00",
+                "timeEnd": "13:00",
+                "teacher": "Stephanie V"
+            },
+            {
+                "available_places": 12,
+                "status": "open",
+                "name": "FunXtion | Move it",
+                "room": "FunXtion Zone",
+                "timeStart": "12:30",
+                "timeEnd": "13:00",
+                "teacher": "Sieuwert"
+            }
+        ]
+    },
+    {
+        "location": "Loosduinseweg",
+        "day": "Zondag",
+        "date": "7 juli",
+        "classes": [
+            {
+                "available_places": 9,
+                "status": "open",
+                "name": "BodyBalance",
+                "room": "Groepsleszaal",
+                "timeStart": "09:00",
+                "timeEnd": "10:00",
+                "teacher": "Ijahé"
+            },
+            {
+                "available_places": 10,
+                "status": "open",
+                "name": "FunXtion-Move-it",
+                "room": "FunXtion Zone",
+                "timeStart": "09:30",
+                "timeEnd": "10:00",
+                "teacher": "Mender"
+            },
+            {
+                "available_places": 1,
+                "status": "open",
+                "name": "Zumba",
+                "room": "Groepsleszaal",
+                "timeStart": "10:00",
+                "timeEnd": "11:00",
+                "teacher": "Mila"
+            },
+            {
+                "available_places": 14,
+                "status": "open",
+                "name": "Strong by Zumba",
+                "room": "Groepsleszaal",
+                "timeStart": "11:00",
+                "timeEnd": "12:00",
+                "teacher": "Stephanie B"
+            },
+            {
+                "available_places": 1,
+                "status": "open",
+                "name": "BodyPump",
+                "room": "Groepsleszaal",
+                "timeStart": "12:00",
+                "timeEnd": "13:00",
+                "teacher": "Stephanie B"
+            },
+            {
+                "available_places": 12,
+                "status": "open",
+                "name": "FunXtion-Move-it",
+                "room": "FunXtion Zone",
+                "timeStart": "12:30",
+                "timeEnd": "13:00",
+                "teacher": "Edwin"
+            }
+        ]
+    },
+    {
+        "location": "Loosduinseweg",
+        "day": "Maandag",
+        "date": "8 juli",
+        "classes": [
+            {
+                "available_places": 7,
+                "status": "open",
+                "name": "BodyPump",
+                "room": "Groepsleszaal",
+                "timeStart": "09:00",
+                "timeEnd": "10:00",
+                "teacher": "Chantal"
+            },
+            {
+                "available_places": 11,
+                "status": "open",
+                "name": "FunXtion | Move it",
+                "room": "FunXtion Zone",
+                "timeStart": "09:30",
+                "timeEnd": "10:00",
+                "teacher": "Sieuwert"
+            },
+            {
+                "available_places": 20,
+                "status": "open",
+                "name": "BodyBalance",
+                "room": "Groepsleszaal",
+                "timeStart": "10:00",
+                "timeEnd": "11:00",
+                "teacher": "Chantal"
+            },
+            {
+                "available_places": 14,
+                "status": "open",
+                "name": "Zumba",
+                "room": "Groepsleszaal",
+                "timeStart": "11:00",
+                "timeEnd": "12:00",
+                "teacher": "Chantal"
+            },
+            {
+                "available_places": 23,
+                "status": "open",
+                "name": "50+ Fit",
+                "room": "Groepsleszaal",
+                "timeStart": "12:00",
+                "timeEnd": "13:00",
+                "teacher": "Chantal"
+            },
+            {
+                "available_places": 12,
+                "status": "open",
+                "name": "FunXtion | Move it",
+                "room": "FunXtion Zone",
+                "timeStart": "12:30",
+                "timeEnd": "13:00",
+                "teacher": "Tamara"
+            },
+            {
+                "available_places": 1,
+                "status": "open",
+                "name": "Grit Strength",
+                "room": "Groepsleszaal",
+                "timeStart": "18:30",
+                "timeEnd": "19:00",
+                "teacher": "Roshni"
+            },
+            {
+                "available_places": 0,
+                "status": "full",
+                "name": "BodyCombat",
+                "room": "Groepsleszaal",
+                "timeStart": "19:00",
+                "timeEnd": "20:00",
+                "teacher": "Young"
+            },
+            {
+                "available_places": 10,
+                "status": "open",
+                "name": "FunXtion | Move it",
+                "room": "FunXtion Zone",
+                "timeStart": "19:30",
+                "timeEnd": "20:00",
+                "teacher": "Revelino"
+            },
+            {
+                "available_places": 0,
+                "status": "full",
+                "name": "BodyPump",
+                "room": "Groepsleszaal",
+                "timeStart": "20:00",
+                "timeEnd": "21:00",
+                "teacher": "Roshni"
+            }
+        ]
+    },
+    {
+        "location": "Loosduinseweg",
+        "day": "Dinsdag",
+        "date": "9 juli",
+        "classes": [
+            {
+                "available_places": 15,
+                "status": "open",
+                "name": "BodyPump",
+                "room": "Groepsleszaal",
+                "timeStart": "09:00",
+                "timeEnd": "10:00",
+                "teacher": "Chantal"
+            },
+            {
+                "available_places": 12,
+                "status": "open",
+                "name": "FunXtion | Move it",
+                "room": "FunXtion Zone",
+                "timeStart": "09:30",
+                "timeEnd": "10:00",
+                "teacher": "Tamara"
+            },
+            {
+                "available_places": 10,
+                "status": "open",
+                "name": "Grit Cardio",
+                "room": "Groepsleszaal",
+                "timeStart": "10:00",
+                "timeEnd": "10:30",
+                "teacher": "Chantal"
+            },
+            {
+                "available_places": 17,
+                "status": "open",
+                "name": "Brazilian Dance",
+                "room": "Groepsleszaal",
+                "timeStart": "10:45",
+                "timeEnd": "11:45",
+                "teacher": "Jaqueline Lara"
+            },
+            {
+                "available_places": 20,
+                "status": "open",
+                "name": "BBB",
+                "room": "Groepsleszaal",
+                "timeStart": "11:45",
+                "timeEnd": "12:45",
+                "teacher": "Jaqueline Lara"
+            },
+            {
+                "available_places": 11,
+                "status": "open",
+                "name": "FunXtion | Move it",
+                "room": "FunXtion Zone",
+                "timeStart": "12:30",
+                "timeEnd": "13:00",
+                "teacher": "Jason"
+            },
+            {
+                "available_places": 0,
+                "status": "full",
+                "name": "BodyPump",
+                "room": "Groepsleszaal",
+                "timeStart": "18:00",
+                "timeEnd": "19:00",
+                "teacher": "Ijahé"
+            },
+            {
+                "available_places": 16,
+                "status": "open",
+                "name": "BodyJam",
+                "room": "Groepsleszaal",
+                "timeStart": "19:00",
+                "timeEnd": "20:00",
+                "teacher": "Ijahé"
+            },
+            {
+                "available_places": 10,
+                "status": "open",
+                "name": "FunXtion | Move it",
+                "room": "FunXtion Zone",
+                "timeStart": "19:30",
+                "timeEnd": "20:00",
+                "teacher": "Sieuwert"
+            },
+            {
+                "available_places": 8,
+                "status": "open",
+                "name": "Zumba",
+                "room": "Groepsleszaal",
+                "timeStart": "20:00",
+                "timeEnd": "21:00",
+                "teacher": "Stephanie B"
+            },
+            {
+                "available_places": 9,
+                "status": "open",
+                "name": "Poweryoga",
+                "room": "Groepsleszaal",
+                "timeStart": "21:00",
+                "timeEnd": "22:00",
+                "teacher": "Stephanie B"
+            }
+        ]
+    },
+    {
+        "location": "Loosduinseweg",
+        "day": "Woensdag",
+        "date": "10 juli",
+        "classes": [
+            {
+                "available_places": 10,
+                "status": "open",
+                "name": "FunXtion | Move it",
+                "room": "FunXtion Zone",
+                "timeStart": "09:30",
+                "timeEnd": "10:00",
+                "teacher": "Ijahé"
+            },
+            {
+                "available_places": 6,
+                "status": "open",
+                "name": "BBB",
+                "room": "Groepsleszaal",
+                "timeStart": "10:00",
+                "timeEnd": "11:00",
+                "teacher": "Jaqueline Lara"
+            },
+            {
+                "available_places": 13,
+                "status": "open",
+                "name": "Zumba",
+                "room": "Groepsleszaal",
+                "timeStart": "11:00",
+                "timeEnd": "12:00",
+                "teacher": "Mila"
+            },
+            {
+                "available_places": 10,
+                "status": "open",
+                "name": "FunXtion | Move it",
+                "room": "FunXtion Zone",
+                "timeStart": "12:30",
+                "timeEnd": "13:00",
+                "teacher": "Ijahe"
+            },
+            {
+                "available_places": 20,
+                "status": "open",
+                "name": "BodyJam",
+                "room": "Groepsleszaal",
+                "timeStart": "18:30",
+                "timeEnd": "19:30",
+                "teacher": "Chantal"
+            },
+            {
+                "available_places": 0,
+                "status": "full",
+                "name": "FunXtion | Move it",
+                "room": "FunXtion Zone",
+                "timeStart": "19:30",
+                "timeEnd": "20:00",
+                "teacher": "Nancy"
+            },
+            {
+                "available_places": 0,
+                "status": "full",
+                "name": "BodyPump",
+                "room": "Groepsleszaal",
+                "timeStart": "19:30",
+                "timeEnd": "20:30",
+                "teacher": "Ijahé"
+            },
+            {
+                "available_places": 3,
+                "status": "open",
+                "name": "Grit Strength",
+                "room": "Groepsleszaal",
+                "timeStart": "20:30",
+                "timeEnd": "21:00",
+                "teacher": "Ijahé"
+            }
+        ]
+    },
+    {
+        "location": "Loosduinseweg",
+        "day": "Donderdag",
+        "date": "11 juli",
+        "classes": [
+            {
+                "available_places": 12,
+                "status": "open",
+                "name": "FunXtion | Move it",
+                "room": "FunXtion Zone",
+                "timeStart": "09:30",
+                "timeEnd": "10:00",
+                "teacher": "Esther"
+            },
+            {
+                "available_places": 16,
+                "status": "open",
+                "name": "BodyPump",
+                "room": "Groepsleszaal",
+                "timeStart": "10:00",
+                "timeEnd": "11:00",
+                "teacher": "-"
+            },
+            {
+                "available_places": 22,
+                "status": "open",
+                "name": "Pilates",
+                "room": "Groepsleszaal",
+                "timeStart": "11:00",
+                "timeEnd": "12:00",
+                "teacher": "-"
+            },
+            {
+                "available_places": 11,
+                "status": "open",
+                "name": "FunXtion | Move it",
+                "room": "FunXtion Zone",
+                "timeStart": "12:30",
+                "timeEnd": "13:00",
+                "teacher": "Ijahé"
+            },
+            {
+                "available_places": 14,
+                "status": "open",
+                "name": "BodyCombat",
+                "room": "Groepsleszaal",
+                "timeStart": "18:00",
+                "timeEnd": "19:00",
+                "teacher": "Young"
+            },
+            {
+                "available_places": 0,
+                "status": "full",
+                "name": "BBB",
+                "room": "Groepsleszaal",
+                "timeStart": "19:00",
+                "timeEnd": "20:00",
+                "teacher": "Lisette"
+            },
+            {
+                "available_places": 9,
+                "status": "open",
+                "name": "FunXtion | Move it",
+                "room": "FunXtion Zone",
+                "timeStart": "19:30",
+                "timeEnd": "20:00",
+                "teacher": "Raza"
+            },
+            {
+                "available_places": 10,
+                "status": "open",
+                "name": "Pilates",
+                "room": "Groepsleszaal",
+                "timeStart": "20:00",
+                "timeEnd": "21:00",
+                "teacher": "Lisette"
+            }
+        ]
+    },
+    {
+        "location": "Loosduinseweg",
+        "day": "Vrijdag",
+        "date": "12 juli",
+        "classes": [
+            {
+                "available_places": 12,
+                "status": "open",
+                "name": "BodyCombat",
+                "room": "Groepsleszaal",
+                "timeStart": "09:00",
+                "timeEnd": "10:00",
+                "teacher": "Young"
+            },
+            {
+                "available_places": 10,
+                "status": "open",
+                "name": "FunXtion | Move it",
+                "room": "FunXtion Zone",
+                "timeStart": "09:30",
+                "timeEnd": "10:00",
+                "teacher": "Tamara"
+            },
+            {
+                "available_places": 7,
+                "status": "open",
+                "name": "BodyPump",
+                "room": "Groepsleszaal",
+                "timeStart": "10:00",
+                "timeEnd": "11:00",
+                "teacher": "Roshni"
+            },
+            {
+                "available_places": 19,
+                "status": "open",
+                "name": "BodyBalance",
+                "room": "Groepsleszaal",
+                "timeStart": "11:15",
+                "timeEnd": "12:15",
+                "teacher": "Young"
+            },
+            {
+                "available_places": 12,
+                "status": "open",
+                "name": "FunXtion | Move it",
+                "room": "FunXtion Zone",
+                "timeStart": "12:30",
+                "timeEnd": "13:00",
+                "teacher": "Nancy"
+            },
+            {
+                "available_places": 4,
+                "status": "open",
+                "name": "HIIT",
+                "room": "Groepsleszaal",
+                "timeStart": "18:30",
+                "timeEnd": "19:00",
+                "teacher": "Nancy"
+            },
+            {
+                "available_places": 2,
+                "status": "open",
+                "name": "BodyPump",
+                "room": "Groepsleszaal",
+                "timeStart": "19:00",
+                "timeEnd": "20:00",
+                "teacher": "-"
+            },
+            {
+                "available_places": 11,
+                "status": "open",
+                "name": "FunXtion | Move it",
+                "room": "FunXtion Zone",
+                "timeStart": "19:30",
+                "timeEnd": "20:00",
+                "teacher": "Edwin"
+            },
+            {
+                "available_places": 17,
+                "status": "open",
+                "name": "Zumba",
+                "room": "Groepsleszaal",
+                "timeStart": "20:00",
+                "timeEnd": "21:00",
+                "teacher": "Tamara"
+            }
+        ]
+    },
+    {
+        "location": "Loosduinseweg",
+        "day": "Zaterdag",
+        "date": "13 juli",
+        "classes": [
+            {
+                "available_places": 1,
+                "status": "open",
+                "name": "Grit Cardio",
+                "room": "Groepsleszaal",
+                "timeStart": "09:15",
+                "timeEnd": "09:45",
+                "teacher": "Kaya"
+            },
+            {
+                "available_places": 12,
+                "status": "open",
+                "name": "FunXtion | Move it",
+                "room": "FunXtion Zone",
+                "timeStart": "09:30",
+                "timeEnd": "10:00",
+                "teacher": "Sieuwert"
+            },
+            {
+                "available_places": 0,
+                "status": "full",
+                "name": "BodyPump",
+                "room": "Groepsleszaal",
+                "timeStart": "10:00",
+                "timeEnd": "11:00",
+                "teacher": "Kaya"
+            },
+            {
+                "available_places": 8,
+                "status": "open",
+                "name": "Pilates",
+                "room": "Groepsleszaal",
+                "timeStart": "11:00",
+                "timeEnd": "12:00",
+                "teacher": "Stephanie V"
+            },
+            {
+                "available_places": 0,
+                "status": "full",
+                "name": "BBB",
+                "room": "Groepsleszaal",
+                "timeStart": "12:00",
+                "timeEnd": "13:00",
+                "teacher": "Stephanie V"
+            },
+            {
+                "available_places": 12,
+                "status": "open",
+                "name": "FunXtion | Move it",
+                "room": "FunXtion Zone",
+                "timeStart": "12:30",
+                "timeEnd": "13:00",
+                "teacher": "Sieuwert"
+            }
+        ]
+    },
+    {
+        "location": "Loosduinseweg",
+        "day": "Zondag",
+        "date": "14 juli",
+        "classes": [
+            {
+                "available_places": 15,
+                "status": "open",
+                "name": "BodyBalance",
+                "room": "Groepsleszaal",
+                "timeStart": "09:00",
+                "timeEnd": "10:00",
+                "teacher": "Ijahé"
+            },
+            {
+                "available_places": 11,
+                "status": "open",
+                "name": "FunXtion-Move-it",
+                "room": "FunXtion Zone",
+                "timeStart": "09:30",
+                "timeEnd": "10:00",
+                "teacher": "Edwin"
+            },
+            {
+                "available_places": 0,
+                "status": "full",
+                "name": "Zumba",
+                "room": "Groepsleszaal",
+                "timeStart": "10:00",
+                "timeEnd": "11:00",
+                "teacher": "Mila"
+            },
+            {
+                "available_places": 13,
+                "status": "open",
+                "name": "Strong by Zumba",
+                "room": "Groepsleszaal",
+                "timeStart": "11:00",
+                "timeEnd": "12:00",
+                "teacher": "Stephanie B"
+            },
+            {
+                "available_places": 2,
+                "status": "open",
+                "name": "BodyPump",
+                "room": "Groepsleszaal",
+                "timeStart": "12:00",
+                "timeEnd": "13:00",
+                "teacher": "Stephanie B"
+            },
+            {
+                "available_places": 12,
+                "status": "open",
+                "name": "FunXtion-Move-it",
+                "room": "FunXtion Zone",
+                "timeStart": "12:30",
+                "timeEnd": "13:00",
+                "teacher": "Edwin"
+            }
+        ]
+    },
+    {
+        "location": "Loosduinseweg",
+        "day": "Maandag",
+        "date": "15 juli",
+        "classes": [
+            {
+                "available_places": 15,
+                "status": "open",
+                "name": "BodyPump",
+                "room": "Groepsleszaal",
+                "timeStart": "09:00",
+                "timeEnd": "10:00",
+                "teacher": "Chantal"
+            },
+            {
+                "available_places": 12,
+                "status": "open",
+                "name": "FunXtion | Move it",
+                "room": "FunXtion Zone",
+                "timeStart": "09:30",
+                "timeEnd": "10:00",
+                "teacher": "Edwin"
+            },
+            {
+                "available_places": 21,
+                "status": "open",
+                "name": "BodyBalance",
+                "room": "Groepsleszaal",
+                "timeStart": "10:00",
+                "timeEnd": "11:00",
+                "teacher": "Chantal"
+            },
+            {
+                "available_places": 19,
+                "status": "open",
+                "name": "Zumba",
+                "room": "Groepsleszaal",
+                "timeStart": "11:00",
+                "timeEnd": "12:00",
+                "teacher": "Chantal"
+            },
+            {
+                "available_places": 24,
+                "status": "open",
+                "name": "50+ Fit",
+                "room": "Groepsleszaal",
+                "timeStart": "12:00",
+                "timeEnd": "13:00",
+                "teacher": "Chantal"
+            },
+            {
+                "available_places": 12,
+                "status": "open",
+                "name": "FunXtion | Move it",
+                "room": "FunXtion Zone",
+                "timeStart": "12:30",
+                "timeEnd": "13:00",
+                "teacher": "Tamara"
+            },
+            {
+                "available_places": 17,
+                "status": "open",
+                "name": "GRIT CHALLENGE",
+                "room": "Groepsleszaal",
+                "timeStart": "18:30",
+                "timeEnd": "19:00",
+                "teacher": "Roshni"
+            },
+            {
+                "available_places": 6,
+                "status": "open",
+                "name": "BodyCombat",
+                "room": "Groepsleszaal",
+                "timeStart": "19:00",
+                "timeEnd": "20:00",
+                "teacher": "Young"
+            },
+            {
+                "available_places": 12,
+                "status": "open",
+                "name": "FunXtion | Move it",
+                "room": "FunXtion Zone",
+                "timeStart": "19:30",
+                "timeEnd": "20:00",
+                "teacher": "Revelino"
+            },
+            {
+                "available_places": 8,
+                "status": "open",
+                "name": "BodyPump",
+                "room": "Groepsleszaal",
+                "timeStart": "20:00",
+                "timeEnd": "21:00",
+                "teacher": "Roshni"
+            }
+        ]
+    },
+    {
+        "location": "Loosduinseweg",
+        "day": "Dinsdag",
+        "date": "16 juli",
+        "classes": [
+            {
+                "available_places": 21,
+                "status": "open",
+                "name": "BodyPump",
+                "room": "Groepsleszaal",
+                "timeStart": "09:00",
+                "timeEnd": "10:00",
+                "teacher": "Chantal"
+            },
+            {
+                "available_places": 12,
+                "status": "open",
+                "name": "FunXtion | Move it",
+                "room": "FunXtion Zone",
+                "timeStart": "09:30",
+                "timeEnd": "10:00",
+                "teacher": "Tamara"
+            },
+            {
+                "available_places": 14,
+                "status": "open",
+                "name": "Grit Cardio",
+                "room": "Groepsleszaal",
+                "timeStart": "10:00",
+                "timeEnd": "10:30",
+                "teacher": "Chantal"
+            },
+            {
+                "available_places": 20,
+                "status": "open",
+                "name": "Brazilian Dance",
+                "room": "Groepsleszaal",
+                "timeStart": "10:45",
+                "timeEnd": "11:45",
+                "teacher": "Jaqueline Lara"
+            },
+            {
+                "available_places": 23,
+                "status": "open",
+                "name": "BBB",
+                "room": "Groepsleszaal",
+                "timeStart": "11:45",
+                "timeEnd": "12:45",
+                "teacher": "Jaqueline Lara"
+            },
+            {
+                "available_places": 12,
+                "status": "open",
+                "name": "FunXtion | Move it",
+                "room": "FunXtion Zone",
+                "timeStart": "12:30",
+                "timeEnd": "13:00",
+                "teacher": "Jason"
+            },
+            {
+                "available_places": 0,
+                "status": "full",
+                "name": "BodyPump",
+                "room": "Groepsleszaal",
+                "timeStart": "18:00",
+                "timeEnd": "19:00",
+                "teacher": "Ijahé"
+            },
+            {
+                "available_places": 20,
+                "status": "open",
+                "name": "BodyJam",
+                "room": "Groepsleszaal",
+                "timeStart": "19:00",
+                "timeEnd": "20:00",
+                "teacher": "Ijahé"
+            },
+            {
+                "available_places": 10,
+                "status": "open",
+                "name": "FunXtion | Move it",
+                "room": "FunXtion Zone",
+                "timeStart": "19:30",
+                "timeEnd": "20:00",
+                "teacher": "Sieuwert"
+            },
+            {
+                "available_places": 17,
+                "status": "open",
+                "name": "Zumba",
+                "room": "Groepsleszaal",
+                "timeStart": "20:00",
+                "timeEnd": "21:00",
+                "teacher": "Stephanie B"
+            },
+            {
+                "available_places": 21,
+                "status": "open",
+                "name": "Poweryoga",
+                "room": "Groepsleszaal",
+                "timeStart": "21:00",
+                "timeEnd": "22:00",
+                "teacher": "Stephanie B"
+            }
+        ]
+    },
+    {
+        "location": "Loosduinseweg",
+        "day": "Woensdag",
+        "date": "17 juli",
+        "classes": [
+            {
+                "available_places": 11,
+                "status": "open",
+                "name": "FunXtion | Move it",
+                "room": "FunXtion Zone",
+                "timeStart": "09:30",
+                "timeEnd": "10:00",
+                "teacher": "Ijahé"
+            },
+            {
+                "available_places": 15,
+                "status": "open",
+                "name": "BBB",
+                "room": "Groepsleszaal",
+                "timeStart": "10:00",
+                "timeEnd": "11:00",
+                "teacher": "Jaqueline Lara"
+            },
+            {
+                "available_places": 21,
+                "status": "open",
+                "name": "Zumba",
+                "room": "Groepsleszaal",
+                "timeStart": "11:00",
+                "timeEnd": "12:00",
+                "teacher": "Mila"
+            },
+            {
+                "available_places": 12,
+                "status": "open",
+                "name": "FunXtion | Move it",
+                "room": "FunXtion Zone",
+                "timeStart": "12:30",
+                "timeEnd": "13:00",
+                "teacher": "Ijahe"
+            },
+            {
+                "available_places": 24,
+                "status": "open",
+                "name": "BodyJam",
+                "room": "Groepsleszaal",
+                "timeStart": "18:30",
+                "timeEnd": "19:30",
+                "teacher": "Chantal"
+            },
+            {
+                "available_places": 5,
+                "status": "open",
+                "name": "FunXtion | Move it",
+                "room": "FunXtion Zone",
+                "timeStart": "19:30",
+                "timeEnd": "20:00",
+                "teacher": "Nancy"
+            },
+            {
+                "available_places": 6,
+                "status": "open",
+                "name": "BodyPump",
+                "room": "Groepsleszaal",
+                "timeStart": "19:30",
+                "timeEnd": "20:30",
+                "teacher": "Ijahé"
+            },
+            {
+                "available_places": 9,
+                "status": "open",
+                "name": "Grit Strength",
+                "room": "Groepsleszaal",
+                "timeStart": "20:30",
+                "timeEnd": "21:00",
+                "teacher": "Ijahé"
+            }
+        ]
+    },
+    {
+        "location": "Loosduinseweg",
+        "day": "Donderdag",
+        "date": "18 juli",
+        "classes": [
+            {
+                "available_places": 12,
+                "status": "open",
+                "name": "FunXtion | Move it",
+                "room": "FunXtion Zone",
+                "timeStart": "09:30",
+                "timeEnd": "10:00",
+                "teacher": "Esther"
+            },
+            {
+                "available_places": 20,
+                "status": "open",
+                "name": "BodyPump",
+                "room": "Groepsleszaal",
+                "timeStart": "10:00",
+                "timeEnd": "11:00",
+                "teacher": "-"
+            },
+            {
+                "available_places": 22,
+                "status": "open",
+                "name": "Pilates",
+                "room": "Groepsleszaal",
+                "timeStart": "11:00",
+                "timeEnd": "12:00",
+                "teacher": "-"
+            },
+            {
+                "available_places": 12,
+                "status": "open",
+                "name": "FunXtion | Move it",
+                "room": "FunXtion Zone",
+                "timeStart": "12:30",
+                "timeEnd": "13:00",
+                "teacher": "Ijahé"
+            },
+            {
+                "available_places": 21,
+                "status": "open",
+                "name": "BodyCombat",
+                "room": "Groepsleszaal",
+                "timeStart": "18:00",
+                "timeEnd": "19:00",
+                "teacher": "Young"
+            },
+            {
+                "available_places": 14,
+                "status": "open",
+                "name": "BBB",
+                "room": "Groepsleszaal",
+                "timeStart": "19:00",
+                "timeEnd": "20:00",
+                "teacher": "Lisette"
+            },
+            {
+                "available_places": 11,
+                "status": "open",
+                "name": "FunXtion | Move it",
+                "room": "FunXtion Zone",
+                "timeStart": "19:30",
+                "timeEnd": "20:00",
+                "teacher": "Raza"
+            },
+            {
+                "available_places": 20,
+                "status": "open",
+                "name": "Pilates",
+                "room": "Groepsleszaal",
+                "timeStart": "20:00",
+                "timeEnd": "21:00",
+                "teacher": "Lisette"
+            }
+        ]
+    },
+    {
+        "location": "Loosduinseweg",
+        "day": "Vrijdag",
+        "date": "19 juli",
+        "classes": [
+            {
+                "available_places": 19,
+                "status": "open",
+                "name": "BodyCombat",
+                "room": "Groepsleszaal",
+                "timeStart": "09:00",
+                "timeEnd": "10:00",
+                "teacher": "Young"
+            },
+            {
+                "available_places": 12,
+                "status": "open",
+                "name": "FunXtion | Move it",
+                "room": "FunXtion Zone",
+                "timeStart": "09:30",
+                "timeEnd": "10:00",
+                "teacher": "Tamara"
+            },
+            {
+                "available_places": 19,
+                "status": "open",
+                "name": "BodyPump",
+                "room": "Groepsleszaal",
+                "timeStart": "10:00",
+                "timeEnd": "11:00",
+                "teacher": "Roshni"
+            },
+            {
+                "available_places": 24,
+                "status": "open",
+                "name": "BodyBalance",
+                "room": "Groepsleszaal",
+                "timeStart": "11:15",
+                "timeEnd": "12:15",
+                "teacher": "Young"
+            },
+            {
+                "available_places": 12,
+                "status": "open",
+                "name": "FunXtion | Move it",
+                "room": "FunXtion Zone",
+                "timeStart": "12:30",
+                "timeEnd": "13:00",
+                "teacher": "Nancy"
+            },
+            {
+                "available_places": 14,
+                "status": "open",
+                "name": "HIIT",
+                "room": "Groepsleszaal",
+                "timeStart": "18:30",
+                "timeEnd": "19:00",
+                "teacher": "Nancy"
+            },
+            {
+                "available_places": 20,
+                "status": "open",
+                "name": "BodyPump",
+                "room": "Groepsleszaal",
+                "timeStart": "19:00",
+                "timeEnd": "20:00",
+                "teacher": "-"
+            },
+            {
+                "available_places": 12,
+                "status": "open",
+                "name": "FunXtion | Move it",
+                "room": "FunXtion Zone",
+                "timeStart": "19:30",
+                "timeEnd": "20:00",
+                "teacher": "Edwin"
+            },
+            {
+                "available_places": 30,
+                "status": "open",
+                "name": "Zumba",
+                "room": "Groepsleszaal",
+                "timeStart": "20:00",
+                "timeEnd": "21:00",
+                "teacher": "Tamara"
+            }
+        ]
+    },
+    {
+        "location": "Mariahoeve",
+        "day": "Zaterdag",
+        "date": "6 juli",
+        "classes": [
+            {
+                "available_places": 12,
+                "status": "open",
+                "name": "Funxtion / Move it",
+                "room": "FunXtion Zone",
+                "timeStart": "09:30",
+                "timeEnd": "10:00",
+                "teacher": "Onbekend"
+            },
+            {
+                "available_places": 5,
+                "status": "open",
+                "name": "RPM",
+                "room": "Spinning",
+                "timeStart": "09:30",
+                "timeEnd": "10:15",
+                "teacher": "Franc"
+            },
+            {
+                "available_places": 8,
+                "status": "open",
+                "name": "BodyShape",
+                "room": "Groepsleszaal",
+                "timeStart": "09:30",
+                "timeEnd": "10:30",
+                "teacher": "Vanity"
+            },
+            {
+                "available_places": 9,
+                "status": "open",
+                "name": "BodyBalance",
+                "room": "Groepsleszaal",
+                "timeStart": "10:30",
+                "timeEnd": "11:30",
+                "teacher": "Vanity"
+            },
+            {
+                "available_places": 12,
+                "status": "open",
+                "name": "FunXtion / Move it",
+                "room": "FunXtion Zone",
+                "timeStart": "13:00",
+                "timeEnd": "13:30",
+                "teacher": "Onbekend"
+            }
+        ]
+    },
+    {
+        "location": "Mariahoeve",
+        "day": "Zondag",
+        "date": "7 juli",
+        "classes": [
+            {
+                "available_places": 14,
+                "status": "open",
+                "name": "Zumba",
+                "room": "Groepsleszaal",
+                "timeStart": "10:15",
+                "timeEnd": "11:15",
+                "teacher": "Kasita"
+            },
+            {
+                "available_places": 12,
+                "status": "open",
+                "name": "Funxtion / Move it",
+                "room": "FunXtion Zone",
+                "timeStart": "13:00",
+                "timeEnd": "13:30",
+                "teacher": "Onbekend"
+            }
+        ]
+    },
+    {
+        "location": "Mariahoeve",
+        "day": "Maandag",
+        "date": "8 juli",
+        "classes": [
+            {
+                "available_places": 19,
+                "status": "open",
+                "name": "BURN",
+                "room": "Groepsleszaal",
+                "timeStart": "09:00",
+                "timeEnd": "09:45",
+                "teacher": "Charlotte"
+            },
+            {
+                "available_places": 5,
+                "status": "open",
+                "name": "FunXtion / Move it 50+",
+                "room": "FunXtion Zone",
+                "timeStart": "09:30",
+                "timeEnd": "10:00",
+                "teacher": "Onbekend"
+            },
+            {
+                "available_places": 19,
+                "status": "open",
+                "name": "X-core",
+                "room": "Groepsleszaal",
+                "timeStart": "09:45",
+                "timeEnd": "10:30",
+                "teacher": "Charlotte"
+            },
+            {
+                "available_places": 14,
+                "status": "open",
+                "name": "PowerYoga",
+                "room": "Groepsleszaal",
+                "timeStart": "11:00",
+                "timeEnd": "12:00",
+                "teacher": "Marijke"
+            },
+            {
+                "available_places": 16,
+                "status": "open",
+                "name": "BodyPump",
+                "room": "Groepsleszaal",
+                "timeStart": "19:00",
+                "timeEnd": "20:00",
+                "teacher": "Joyce"
+            },
+            {
+                "available_places": 16,
+                "status": "open",
+                "name": "BrazilianDance",
+                "room": "Groepsleszaal",
+                "timeStart": "20:00",
+                "timeEnd": "21:00",
+                "teacher": "Jacqueline"
+            },
+            {
+                "available_places": 10,
+                "status": "open",
+                "name": "FunXtion / Move it",
+                "room": "FunXtion Zone",
+                "timeStart": "20:30",
+                "timeEnd": "21:00",
+                "teacher": "Onbekend"
+            }
+        ]
+    },
+    {
+        "location": "Mariahoeve",
+        "day": "Dinsdag",
+        "date": "9 juli",
+        "classes": [
+            {
+                "available_places": 12,
+                "status": "open",
+                "name": "FunXtion / Move it",
+                "room": "FunXtion Zone",
+                "timeStart": "09:30",
+                "timeEnd": "10:00",
+                "teacher": "Onbekend"
+            },
+            {
+                "available_places": 24,
+                "status": "open",
+                "name": "zumba",
+                "room": "Groepsleszaal",
+                "timeStart": "09:30",
+                "timeEnd": "10:30",
+                "teacher": "Narelle"
+            },
+            {
+                "available_places": 24,
+                "status": "open",
+                "name": "Bodybalance",
+                "room": "Groepsleszaal",
+                "timeStart": "10:30",
+                "timeEnd": "11:30",
+                "teacher": "Rajiv"
+            },
+            {
+                "available_places": 15,
+                "status": "open",
+                "name": "X-core",
+                "room": "Groepsleszaal",
+                "timeStart": "18:30",
+                "timeEnd": "19:15",
+                "teacher": "Tamara"
+            },
+            {
+                "available_places": 8,
+                "status": "open",
+                "name": "Zumba",
+                "room": "Groepsleszaal",
+                "timeStart": "19:15",
+                "timeEnd": "20:15",
+                "teacher": "Tamara"
+            },
+            {
+                "available_places": 15,
+                "status": "open",
+                "name": "BURN",
+                "room": "Groepsleszaal",
+                "timeStart": "20:15",
+                "timeEnd": "21:00",
+                "teacher": "Patrick"
+            },
+            {
+                "available_places": 0,
+                "status": "full",
+                "name": "RPM",
+                "room": "Spinning",
+                "timeStart": "20:15",
+                "timeEnd": "21:00",
+                "teacher": "Franc"
+            },
+            {
+                "available_places": 10,
+                "status": "open",
+                "name": "FunXtion / Move it",
+                "room": "FunXtion Zone",
+                "timeStart": "20:30",
+                "timeEnd": "21:00",
+                "teacher": "Onbekend"
+            }
+        ]
+    },
+    {
+        "location": "Mariahoeve",
+        "day": "Woensdag",
+        "date": "10 juli",
+        "classes": [
+            {
+                "available_places": 10,
+                "status": "open",
+                "name": "FunXtion / Move it",
+                "room": "FunXtion Zone",
+                "timeStart": "09:30",
+                "timeEnd": "10:00",
+                "teacher": "Onbekend"
+            },
+            {
+                "available_places": 27,
+                "status": "open",
+                "name": "Zumba",
+                "room": "Groepsleszaal",
+                "timeStart": "09:30",
+                "timeEnd": "10:30",
+                "teacher": "Hanifa"
+            },
+            {
+                "available_places": 22,
+                "status": "open",
+                "name": "Vinyassa Yoga",
+                "room": "Groepsleszaal",
+                "timeStart": "10:30",
+                "timeEnd": "11:30",
+                "teacher": "Marijke"
+            },
+            {
+                "available_places": 19,
+                "status": "open",
+                "name": "BodyPump",
+                "room": "Groepsleszaal",
+                "timeStart": "18:30",
+                "timeEnd": "19:30",
+                "teacher": "Marieke"
+            },
+            {
+                "available_places": 20,
+                "status": "open",
+                "name": "BodyShape",
+                "room": "Groepsleszaal",
+                "timeStart": "19:30",
+                "timeEnd": "20:30",
+                "teacher": "Tarja"
+            },
+            {
+                "available_places": 8,
+                "status": "open",
+                "name": "Cross WOW",
+                "room": "FunXtion Zone",
+                "timeStart": "20:30",
+                "timeEnd": "21:15",
+                "teacher": "Onbekend"
+            },
+            {
+                "available_places": 21,
+                "status": "open",
+                "name": "BodyBalance",
+                "room": "Groepsleszaal",
+                "timeStart": "20:30",
+                "timeEnd": "21:30",
+                "teacher": "Tarja"
+            }
+        ]
+    },
+    {
+        "location": "Mariahoeve",
+        "day": "Donderdag",
+        "date": "11 juli",
+        "classes": [
+            {
+                "available_places": 10,
+                "status": "open",
+                "name": "FunXtion / Move it 50+",
+                "room": "FunXtion Zone",
+                "timeStart": "09:30",
+                "timeEnd": "10:00",
+                "teacher": "Onbekend"
+            },
+            {
+                "available_places": 23,
+                "status": "open",
+                "name": "BodyShape",
+                "room": "Groepsleszaal",
+                "timeStart": "09:30",
+                "timeEnd": "10:30",
+                "teacher": "Estelle"
+            },
+            {
+                "available_places": 24,
+                "status": "open",
+                "name": "Pilates",
+                "room": "Groepsleszaal",
+                "timeStart": "10:30",
+                "timeEnd": "11:30",
+                "teacher": "Estelle"
+            },
+            {
+                "available_places": 18,
+                "status": "open",
+                "name": "Zumba",
+                "room": "Groepsleszaal",
+                "timeStart": "19:00",
+                "timeEnd": "20:00",
+                "teacher": "Tamara"
+            },
+            {
+                "available_places": 16,
+                "status": "open",
+                "name": "BodyPump",
+                "room": "Groepsleszaal",
+                "timeStart": "20:00",
+                "timeEnd": "21:00",
+                "teacher": "Ellen"
+            }
+        ]
+    },
+    {
+        "location": "Mariahoeve",
+        "day": "Vrijdag",
+        "date": "12 juli",
+        "classes": [
+            {
+                "available_places": 18,
+                "status": "open",
+                "name": "BURN",
+                "room": "Groepsleszaal",
+                "timeStart": "09:00",
+                "timeEnd": "09:45",
+                "teacher": "Charlotte"
+            },
+            {
+                "available_places": 9,
+                "status": "open",
+                "name": "FunXtion / Move it",
+                "room": "FunXtion Zone",
+                "timeStart": "09:30",
+                "timeEnd": "10:00",
+                "teacher": "Onbekend"
+            },
+            {
+                "available_places": 9,
+                "status": "open",
+                "name": "RPM",
+                "room": "Spinning",
+                "timeStart": "09:30",
+                "timeEnd": "10:15",
+                "teacher": "Mark"
+            },
+            {
+                "available_places": 17,
+                "status": "open",
+                "name": "X-core",
+                "room": "Groepsleszaal",
+                "timeStart": "09:45",
+                "timeEnd": "10:30",
+                "teacher": "Charlotte"
+            },
+            {
+                "available_places": 17,
+                "status": "open",
+                "name": "Boksen",
+                "room": "Groepsleszaal",
+                "timeStart": "19:00",
+                "timeEnd": "20:00",
+                "teacher": "Jan"
+            },
+            {
+                "available_places": 11,
+                "status": "open",
+                "name": "FunXtion / Booty Class",
+                "room": "FunXtion Zone",
+                "timeStart": "20:30",
+                "timeEnd": "21:00",
+                "teacher": "Onbekend"
+            }
+        ]
+    },
+    {
+        "location": "Mariahoeve",
+        "day": "Zaterdag",
+        "date": "13 juli",
+        "classes": [
+            {
+                "available_places": 12,
+                "status": "open",
+                "name": "Funxtion / Move it",
+                "room": "FunXtion Zone",
+                "timeStart": "09:30",
+                "timeEnd": "10:00",
+                "teacher": "Onbekend"
+            },
+            {
+                "available_places": 6,
+                "status": "open",
+                "name": "RPM",
+                "room": "Spinning",
+                "timeStart": "09:30",
+                "timeEnd": "10:15",
+                "teacher": "Franc"
+            },
+            {
+                "available_places": 20,
+                "status": "open",
+                "name": "BodyShape",
+                "room": "Groepsleszaal",
+                "timeStart": "09:30",
+                "timeEnd": "10:30",
+                "teacher": "Vanity"
+            },
+            {
+                "available_places": 16,
+                "status": "open",
+                "name": "BodyBalance",
+                "room": "Groepsleszaal",
+                "timeStart": "10:30",
+                "timeEnd": "11:30",
+                "teacher": "Vanity"
+            },
+            {
+                "available_places": 12,
+                "status": "open",
+                "name": "FunXtion / Move it",
+                "room": "FunXtion Zone",
+                "timeStart": "13:00",
+                "timeEnd": "13:30",
+                "teacher": "Onbekend"
+            }
+        ]
+    },
+    {
+        "location": "Mariahoeve",
+        "day": "Zondag",
+        "date": "14 juli",
+        "classes": [
+            {
+                "available_places": 24,
+                "status": "open",
+                "name": "Zumba",
+                "room": "Groepsleszaal",
+                "timeStart": "10:15",
+                "timeEnd": "11:15",
+                "teacher": "Kasita"
+            },
+            {
+                "available_places": 12,
+                "status": "open",
+                "name": "Funxtion / Move it",
+                "room": "FunXtion Zone",
+                "timeStart": "13:00",
+                "timeEnd": "13:30",
+                "teacher": "Onbekend"
+            }
+        ]
+    },
+    {
+        "location": "Mariahoeve",
+        "day": "Maandag",
+        "date": "15 juli",
+        "classes": [
+            {
+                "available_places": 20,
+                "status": "open",
+                "name": "BURN",
+                "room": "Groepsleszaal",
+                "timeStart": "09:00",
+                "timeEnd": "09:45",
+                "teacher": "Charlotte"
+            },
+            {
+                "available_places": 10,
+                "status": "open",
+                "name": "FunXtion / Move it 50+",
+                "room": "FunXtion Zone",
+                "timeStart": "09:30",
+                "timeEnd": "10:00",
+                "teacher": "Onbekend"
+            },
+            {
+                "available_places": 20,
+                "status": "open",
+                "name": "X-core",
+                "room": "Groepsleszaal",
+                "timeStart": "09:45",
+                "timeEnd": "10:30",
+                "teacher": "Charlotte"
+            },
+            {
+                "available_places": 19,
+                "status": "open",
+                "name": "PowerYoga",
+                "room": "Groepsleszaal",
+                "timeStart": "11:00",
+                "timeEnd": "12:00",
+                "teacher": "Marijke"
+            },
+            {
+                "available_places": 20,
+                "status": "open",
+                "name": "BodyPump",
+                "room": "Groepsleszaal",
+                "timeStart": "19:00",
+                "timeEnd": "20:00",
+                "teacher": "Joyce"
+            },
+            {
+                "available_places": 25,
+                "status": "open",
+                "name": "BrazilianDance",
+                "room": "Groepsleszaal",
+                "timeStart": "20:00",
+                "timeEnd": "21:00",
+                "teacher": "Jacqueline"
+            },
+            {
+                "available_places": 11,
+                "status": "open",
+                "name": "FunXtion / Move it",
+                "room": "FunXtion Zone",
+                "timeStart": "20:30",
+                "timeEnd": "21:00",
+                "teacher": "Onbekend"
+            }
+        ]
+    },
+    {
+        "location": "Mariahoeve",
+        "day": "Dinsdag",
+        "date": "16 juli",
+        "classes": [
+            {
+                "available_places": 12,
+                "status": "open",
+                "name": "FunXtion / Move it",
+                "room": "FunXtion Zone",
+                "timeStart": "09:30",
+                "timeEnd": "10:00",
+                "teacher": "Onbekend"
+            },
+            {
+                "available_places": 25,
+                "status": "open",
+                "name": "zumba",
+                "room": "Groepsleszaal",
+                "timeStart": "09:30",
+                "timeEnd": "10:30",
+                "teacher": "Narelle"
+            },
+            {
+                "available_places": 25,
+                "status": "open",
+                "name": "Bodybalance",
+                "room": "Groepsleszaal",
+                "timeStart": "10:30",
+                "timeEnd": "11:30",
+                "teacher": "Rajiv"
+            },
+            {
+                "available_places": 20,
+                "status": "open",
+                "name": "X-core",
+                "room": "Groepsleszaal",
+                "timeStart": "18:30",
+                "timeEnd": "19:15",
+                "teacher": "Tamara"
+            },
+            {
+                "available_places": 27,
+                "status": "open",
+                "name": "Zumba",
+                "room": "Groepsleszaal",
+                "timeStart": "19:15",
+                "timeEnd": "20:15",
+                "teacher": "Tamara"
+            },
+            {
+                "available_places": 20,
+                "status": "open",
+                "name": "BURN",
+                "room": "Groepsleszaal",
+                "timeStart": "20:15",
+                "timeEnd": "21:00",
+                "teacher": "Patrick"
+            },
+            {
+                "available_places": 0,
+                "status": "full",
+                "name": "RPM",
+                "room": "Spinning",
+                "timeStart": "20:15",
+                "timeEnd": "21:00",
+                "teacher": "Mark"
+            },
+            {
+                "available_places": 12,
+                "status": "open",
+                "name": "FunXtion / Move it",
+                "room": "FunXtion Zone",
+                "timeStart": "20:30",
+                "timeEnd": "21:00",
+                "teacher": "Onbekend"
+            }
+        ]
+    },
+    {
+        "location": "Mariahoeve",
+        "day": "Woensdag",
+        "date": "17 juli",
+        "classes": [
+            {
+                "available_places": 12,
+                "status": "open",
+                "name": "FunXtion / Move it",
+                "room": "FunXtion Zone",
+                "timeStart": "09:30",
+                "timeEnd": "10:00",
+                "teacher": "Onbekend"
+            },
+            {
+                "available_places": 30,
+                "status": "open",
+                "name": "Zumba",
+                "room": "Groepsleszaal",
+                "timeStart": "09:30",
+                "timeEnd": "10:30",
+                "teacher": "Hanifa"
+            },
+            {
+                "available_places": 25,
+                "status": "open",
+                "name": "Vinyassa Yoga",
+                "room": "Groepsleszaal",
+                "timeStart": "10:30",
+                "timeEnd": "11:30",
+                "teacher": "Marijke"
+            },
+            {
+                "available_places": 24,
+                "status": "open",
+                "name": "BodyPump",
+                "room": "Groepsleszaal",
+                "timeStart": "18:30",
+                "timeEnd": "19:30",
+                "teacher": "Marieke"
+            },
+            {
+                "available_places": 24,
+                "status": "open",
+                "name": "BodyShape",
+                "room": "Groepsleszaal",
+                "timeStart": "19:30",
+                "timeEnd": "20:30",
+                "teacher": "Tarja"
+            },
+            {
+                "available_places": 7,
+                "status": "open",
+                "name": "Cross WOW",
+                "room": "FunXtion Zone",
+                "timeStart": "20:30",
+                "timeEnd": "21:15",
+                "teacher": "Onbekend"
+            },
+            {
+                "available_places": 24,
+                "status": "open",
+                "name": "BodyBalance",
+                "room": "Groepsleszaal",
+                "timeStart": "20:30",
+                "timeEnd": "21:30",
+                "teacher": "Tarja"
+            }
+        ]
+    },
+    {
+        "location": "Mariahoeve",
+        "day": "Donderdag",
+        "date": "18 juli",
+        "classes": [
+            {
+                "available_places": 11,
+                "status": "open",
+                "name": "FunXtion / Move it 50+",
+                "room": "FunXtion Zone",
+                "timeStart": "09:30",
+                "timeEnd": "10:00",
+                "teacher": "Onbekend"
+            },
+            {
+                "available_places": 24,
+                "status": "open",
+                "name": "BodyShape",
+                "room": "Groepsleszaal",
+                "timeStart": "09:30",
+                "timeEnd": "10:30",
+                "teacher": "Estelle"
+            },
+            {
+                "available_places": 24,
+                "status": "open",
+                "name": "Pilates",
+                "room": "Groepsleszaal",
+                "timeStart": "10:30",
+                "timeEnd": "11:30",
+                "teacher": "Estelle"
+            },
+            {
+                "available_places": 28,
+                "status": "open",
+                "name": "Zumba",
+                "room": "Groepsleszaal",
+                "timeStart": "19:00",
+                "timeEnd": "20:00",
+                "teacher": "Tamara"
+            },
+            {
+                "available_places": 20,
+                "status": "open",
+                "name": "BodyPump",
+                "room": "Groepsleszaal",
+                "timeStart": "20:00",
+                "timeEnd": "21:00",
+                "teacher": "Ellen"
+            }
+        ]
+    },
+    {
+        "location": "Mariahoeve",
+        "day": "Vrijdag",
+        "date": "19 juli",
+        "classes": [
+            {
+                "available_places": 20,
+                "status": "open",
+                "name": "BURN",
+                "room": "Groepsleszaal",
+                "timeStart": "09:00",
+                "timeEnd": "09:45",
+                "teacher": "Tim"
+            },
+            {
+                "available_places": 12,
+                "status": "open",
+                "name": "FunXtion / Move it",
+                "room": "FunXtion Zone",
+                "timeStart": "09:30",
+                "timeEnd": "10:00",
+                "teacher": "Onbekend"
+            },
+            {
+                "available_places": 11,
+                "status": "open",
+                "name": "RPM",
+                "room": "Spinning",
+                "timeStart": "09:30",
+                "timeEnd": "10:15",
+                "teacher": "Mark"
+            },
+            {
+                "available_places": 20,
+                "status": "open",
+                "name": "Shbam",
+                "room": "Groepsleszaal",
+                "timeStart": "09:45",
+                "timeEnd": "10:30",
+                "teacher": "Tim"
+            },
+            {
+                "available_places": 20,
+                "status": "open",
+                "name": "Boksen",
+                "room": "Groepsleszaal",
+                "timeStart": "19:00",
+                "timeEnd": "20:00",
+                "teacher": "Jan"
+            },
+            {
+                "available_places": 12,
+                "status": "open",
+                "name": "FunXtion / Booty Class",
+                "room": "FunXtion Zone",
+                "timeStart": "20:30",
+                "timeEnd": "21:00",
+                "teacher": "Onbekend"
+            }
+        ]
+    }
+]
